@@ -1,0 +1,8515 @@
+{
+ "triples": {
+  "12/HD-ĐHABC#M2": {
+   "entities": [
+    "HD 12/HD-ĐHABC",
+    "chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ",
+    "học viên trình độ thạc sĩ",
+    "Mục 2",
+    "các chứng chỉ quốc tế",
+    "Bậc 4",
+    "IELTS từ 5.5 trở lên",
+    "TOEFL iBT từ 46 trở lên",
+    "TOEIC 4 kỹ năng từ 785 trở lên"
+   ],
+   "triples": [
+    [
+     "HD 12/HD-ĐHABC",
+     "quy định",
+     "chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ"
+    ],
+    [
+     "chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ",
+     "gồm",
+     "Mục 2"
+    ],
+    [
+     "các chứng chỉ quốc tế",
+     "được công nhận tương đương",
+     "Bậc 4"
+    ],
+    [
+     "Bậc 4",
+     "gồm",
+     "IELTS từ 5.5 trở lên"
+    ],
+    [
+     "Bậc 4",
+     "gồm",
+     "TOEFL iBT từ 46 trở lên"
+    ],
+    [
+     "Bậc 4",
+     "gồm",
+     "TOEIC 4 kỹ năng từ 785 trở lên"
+    ]
+   ]
+  },
+  "58/TB-ĐHABC#M1": {
+   "entities": [
+    "TB 58/TB-ĐHABC",
+    "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027",
+    "Mục 1",
+    "học viên cao học",
+    "các khóa đã hoàn thành chương trình đào tạo",
+    "người hướng dẫn"
+   ],
+   "triples": [
+    [
+     "TB 58/TB-ĐHABC",
+     "về việc",
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027"
+    ],
+    [
+     "TB 58/TB-ĐHABC",
+     "gồm",
+     "Mục 1"
+    ],
+    [
+     "Mục 1",
+     "quy định đối tượng",
+     "học viên cao học"
+    ],
+    [
+     "học viên cao học",
+     "thuộc",
+     "các khóa đã hoàn thành chương trình đào tạo"
+    ],
+    [
+     "học viên cao học",
+     "được người hướng dẫn đồng ý cho bảo vệ",
+     "người hướng dẫn"
+    ]
+   ]
+  },
+  "330/QĐ-ĐHABC#Đ1": {
+   "entities": [
+    "QĐ 330/QĐ-ĐHABC",
+    "Quy định miễn, giảm học phí",
+    "Điều 1",
+    "đối tượng được miễn học phí",
+    "con của người có công với cách mạng",
+    "người học thuộc hộ nghèo",
+    "miễn học phí"
+   ],
+   "triples": [
+    [
+     "QĐ 330/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định miễn, giảm học phí"
+    ],
+    [
+     "Quy định miễn, giảm học phí",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "đối tượng được miễn học phí",
+     "gồm",
+     "con của người có công với cách mạng"
+    ],
+    [
+     "đối tượng được miễn học phí",
+     "gồm",
+     "người học thuộc hộ nghèo"
+    ],
+    [
+     "đối tượng được miễn học phí",
+     "được",
+     "miễn học phí"
+    ]
+   ]
+  },
+  "05/KH-ĐHABC#M3": {
+   "entities": [
+    "KH 05/KH-ĐHABC",
+    "Đào tạo năm học 2026 - 2027",
+    "Mục 3",
+    "năm học 2026 - 2027",
+    "Trường",
+    "hai đợt bảo vệ đề án tốt nghiệp thạc sĩ",
+    "tháng 01/2027",
+    "tháng 6/2027"
+   ],
+   "triples": [
+    [
+     "KH 05/KH-ĐHABC",
+     "có tiêu đề",
+     "Đào tạo năm học 2026 - 2027"
+    ],
+    [
+     "Đào tạo năm học 2026 - 2027",
+     "có",
+     "Mục 3"
+    ],
+    [
+     "Trường",
+     "tổ chức trong",
+     "năm học 2026 - 2027"
+    ],
+    [
+     "Trường",
+     "tổ chức",
+     "hai đợt bảo vệ đề án tốt nghiệp thạc sĩ"
+    ],
+    [
+     "hai đợt bảo vệ đề án tốt nghiệp thạc sĩ",
+     "diễn ra vào",
+     "tháng 01/2027"
+    ],
+    [
+     "hai đợt bảo vệ đề án tốt nghiệp thạc sĩ",
+     "diễn ra vào",
+     "tháng 6/2027"
+    ]
+   ]
+  },
+  "12/HD-ĐHABC#M4": {
+   "entities": [
+    "HD 12/HD-ĐHABC",
+    "chuẩn năng lực ngoại ngữ đầu ra",
+    "học viên",
+    "trình độ thạc sĩ",
+    "Mục 4",
+    "bằng đại học ngành ngôn ngữ nước ngoài",
+    "học đại học bằng tiếng nước ngoài",
+    "chứng chỉ"
+   ],
+   "triples": [
+    [
+     "HD 12/HD-ĐHABC",
+     "hướng dẫn",
+     "chuẩn năng lực ngoại ngữ đầu ra"
+    ],
+    [
+     "chuẩn năng lực ngoại ngữ đầu ra",
+     "áp dụng cho",
+     "học viên trình độ thạc sĩ"
+    ],
+    [
+     "HD 12/HD-ĐHABC",
+     "có",
+     "Mục 4"
+    ],
+    [
+     "học viên",
+     "có",
+     "bằng đại học ngành ngôn ngữ nước ngoài"
+    ],
+    [
+     "học viên",
+     "học đại học bằng",
+     "tiếng nước ngoài"
+    ],
+    [
+     "học viên",
+     "được miễn yêu cầu",
+     "chứng chỉ"
+    ]
+   ]
+  },
+  "150/QĐ-ĐHABC#Đ4": {
+   "entities": [
+    "QĐ 150/QĐ-ĐHABC",
+    "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án",
+    "Điều 4",
+    "Quyết định này",
+    "01/02/2024"
+   ],
+   "triples": [
+    [
+     "QĐ 150/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án"
+    ],
+    [
+     "QĐ 150/QĐ-ĐHABC",
+     "có",
+     "Điều 4"
+    ],
+    [
+     "QĐ 150/QĐ-ĐHABC",
+     "có hiệu lực từ ngày",
+     "01/02/2024"
+    ]
+   ]
+  },
+  "310/QĐ-ĐHABC#Đ4": {
+   "entities": [
+    "QĐ 310/QĐ-ĐHABC",
+    "Quy định mức học phí năm học 2026 - 2027",
+    "năm học 2026 - 2027",
+    "Điều 4",
+    "01/8/2026"
+   ],
+   "triples": [
+    [
+     "QĐ 310/QĐ-ĐHABC",
+     "quy định",
+     "Quy định mức học phí năm học 2026 - 2027"
+    ],
+    [
+     "QĐ 310/QĐ-ĐHABC",
+     "có",
+     "Điều 4"
+    ],
+    [
+     "QĐ 310/QĐ-ĐHABC",
+     "có hiệu lực từ ngày",
+     "01/8/2026"
+    ]
+   ]
+  },
+  "05/KH-ĐHABC#M2": {
+   "entities": [
+    "KH 05/KH-ĐHABC",
+    "Đào tạo năm học 2026 - 2027",
+    "Mục 2",
+    "Học kỳ II",
+    "ngày 15/02/2027",
+    "ngày 20/6/2027"
+   ],
+   "triples": [
+    [
+     "KH 05/KH-ĐHABC",
+     "có chủ đề",
+     "Đào tạo năm học 2026 - 2027"
+    ],
+    [
+     "Đào tạo năm học 2026 - 2027",
+     "gồm",
+     "Mục 2"
+    ],
+    [
+     "Mục 2",
+     "quy định về",
+     "Học kỳ II"
+    ],
+    [
+     "Học kỳ II",
+     "bắt đầu từ",
+     "ngày 15/02/2027"
+    ],
+    [
+     "Học kỳ II",
+     "kết thúc vào",
+     "ngày 20/6/2027"
+    ]
+   ]
+  },
+  "20/TB-ĐHABC#M2": {
+   "entities": [
+    "TB 20/TB-ĐHABC",
+    "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+    "Mục 2",
+    "Điều kiện dự tuyển",
+    "tốt nghiệp đại học",
+    "ngành phù hợp",
+    "năng lực ngoại ngữ từ Bậc 3 trở lên",
+    "Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam"
+   ],
+   "triples": [
+    [
+     "TB 20/TB-ĐHABC",
+     "thông báo",
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026"
+    ],
+    [
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+     "có",
+     "Mục 2"
+    ],
+    [
+     "Mục 2",
+     "quy định",
+     "Điều kiện dự tuyển"
+    ],
+    [
+     "Điều kiện dự tuyển",
+     "yêu cầu",
+     "tốt nghiệp đại học ngành phù hợp"
+    ],
+    [
+     "Điều kiện dự tuyển",
+     "yêu cầu",
+     "năng lực ngoại ngữ từ Bậc 3 trở lên"
+    ],
+    [
+     "năng lực ngoại ngữ từ Bậc 3 trở lên",
+     "theo",
+     "Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ9.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 9",
+    "Chuẩn ngoại ngữ đầu ra",
+    "Khoản 1",
+    "học viên",
+    "trước khi bảo vệ đề án",
+    "chuẩn năng lực ngoại ngữ đầu ra",
+    "Hướng dẫn số 12/HD-ĐHABC"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 9"
+    ],
+    [
+     "Điều 9",
+     "quy định",
+     "Chuẩn ngoại ngữ đầu ra"
+    ],
+    [
+     "học viên",
+     "phải đạt",
+     "chuẩn năng lực ngoại ngữ đầu ra"
+    ],
+    [
+     "học viên",
+     "đạt chuẩn trước",
+     "trước khi bảo vệ đề án"
+    ],
+    [
+     "chuẩn năng lực ngoại ngữ đầu ra",
+     "theo",
+     "Hướng dẫn số 12/HD-ĐHABC"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ4.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 4",
+    "Người hướng dẫn đề án",
+    "Khoản 1",
+    "đề án tốt nghiệp",
+    "02 người hướng dẫn",
+    "01 người",
+    "giảng viên cơ hữu",
+    "Trường"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 4"
+    ],
+    [
+     "Điều 4",
+     "quy định về",
+     "Người hướng dẫn đề án"
+    ],
+    [
+     "đề án tốt nghiệp",
+     "có tối đa",
+     "02 người hướng dẫn"
+    ],
+    [
+     "đề án tốt nghiệp",
+     "có ít nhất",
+     "01 người"
+    ],
+    [
+     "01 người",
+     "là",
+     "giảng viên cơ hữu"
+    ],
+    [
+     "giảng viên cơ hữu",
+     "thuộc",
+     "Trường"
+    ]
+   ]
+  },
+  "330/QĐ-ĐHABC#Đ2.K1": {
+   "entities": [
+    "QĐ 330/QĐ-ĐHABC",
+    "Quy định miễn, giảm học phí",
+    "Điều 2",
+    "Khoản 1",
+    "70% học phí",
+    "người học",
+    "người dân tộc thiểu số rất ít người"
+   ],
+   "triples": [
+    [
+     "QĐ 330/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định miễn, giảm học phí"
+    ],
+    [
+     "Quy định miễn, giảm học phí",
+     "gồm",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "gồm",
+     "Khoản 1"
+    ],
+    [
+     "người học là người dân tộc thiểu số rất ít người",
+     "được giảm",
+     "70% học phí"
+    ]
+   ]
+  },
+  "180/QĐ-ĐHABC#Đ2.K2": {
+   "entities": [
+    "QĐ 180/QĐ-ĐHABC",
+    "Quy định về công tác cố vấn học tập",
+    "Điều 2",
+    "cố vấn học tập",
+    "Khoản 2",
+    "họp lớp",
+    "02 lần mỗi học kỳ",
+    "khoa"
+   ],
+   "triples": [
+    [
+     "QĐ 180/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định về công tác cố vấn học tập"
+    ],
+    [
+     "Quy định về công tác cố vấn học tập",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "gồm",
+     "Khoản 2"
+    ],
+    [
+     "cố vấn học tập",
+     "tổ chức",
+     "họp lớp"
+    ],
+    [
+     "họp lớp",
+     "tần suất",
+     "02 lần mỗi học kỳ"
+    ],
+    [
+     "cố vấn học tập",
+     "báo cáo kết quả về",
+     "khoa"
+    ]
+   ]
+  },
+  "205/QĐ-ĐHABC#Đ2.K1": {
+   "entities": [
+    "QĐ 205/QĐ-ĐHABC",
+    "Quy định chế độ làm việc của giảng viên",
+    "Điều 2",
+    "Quy đổi giờ chuẩn hoạt động sau đại học",
+    "Khoản 1",
+    "hướng dẫn",
+    "đề án tốt nghiệp thạc sĩ",
+    "25 giờ chuẩn"
+   ],
+   "triples": [
+    [
+     "QĐ 205/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định chế độ làm việc của giảng viên"
+    ],
+    [
+     "Quy định chế độ làm việc của giảng viên",
+     "gồm",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "quy định về",
+     "Quy đổi giờ chuẩn hoạt động sau đại học"
+    ],
+    [
+     "hướng dẫn",
+     "được tính cho",
+     "đề án tốt nghiệp thạc sĩ"
+    ],
+    [
+     "hướng dẫn một đề án tốt nghiệp thạc sĩ",
+     "được tính",
+     "25 giờ chuẩn"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ5.K3": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 5",
+    "Hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+    "Khoản 3",
+    "Phòng Đào tạo",
+    "Hiệu trưởng",
+    "hồ sơ",
+    "hội đồng",
+    "quyết định thành lập hội đồng"
+   ],
+   "triples": [
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "kèm theo",
+     "QĐ 100/QĐ-ĐHABC"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 5"
+    ],
+    [
+     "Điều 5",
+     "quy định về",
+     "Hồ sơ đề nghị bảo vệ đề án tốt nghiệp"
+    ],
+    [
+     "Phòng Đào tạo",
+     "kiểm tra tính hợp lệ của",
+     "hồ sơ"
+    ],
+    [
+     "Phòng Đào tạo",
+     "trình",
+     "Hiệu trưởng"
+    ],
+    [
+     "Hiệu trưởng",
+     "ra",
+     "quyết định thành lập hội đồng"
+    ],
+    [
+     "quyết định thành lập hội đồng",
+     "thành lập",
+     "hội đồng"
+    ]
+   ]
+  },
+  "07/HD-ĐHABC#M4": {
+   "entities": [
+    "HD 07/HD-ĐHABC",
+    "Trình bày đề án tốt nghiệp thạc sĩ",
+    "Mục 4",
+    "Bìa đề án",
+    "màu xanh đậm",
+    "chữ nhũ vàng",
+    "học viên",
+    "05 quyển đề án",
+    "bản điện tử",
+    "định dạng PDF"
+   ],
+   "triples": [
+    [
+     "HD 07/HD-ĐHABC",
+     "hướng dẫn",
+     "Trình bày đề án tốt nghiệp thạc sĩ"
+    ],
+    [
+     "Trình bày đề án tốt nghiệp thạc sĩ",
+     "có",
+     "Mục 4"
+    ],
+    [
+     "Bìa đề án",
+     "in màu",
+     "màu xanh đậm"
+    ],
+    [
+     "Bìa đề án",
+     "có",
+     "chữ nhũ vàng"
+    ],
+    [
+     "học viên",
+     "nộp",
+     "05 quyển đề án"
+    ],
+    [
+     "học viên",
+     "nộp kèm",
+     "bản điện tử"
+    ],
+    [
+     "bản điện tử",
+     "có định dạng",
+     "định dạng PDF"
+    ]
+   ]
+  },
+  "310/QĐ-ĐHABC#Đ3.K2": {
+   "entities": [
+    "QĐ 310/QĐ-ĐHABC",
+    "quy định mức học phí năm học 2026 - 2027",
+    "Điều 3",
+    "thời hạn nộp học phí",
+    "Khoản 2",
+    "Người học",
+    "15 ngày",
+    "đăng ký học phần",
+    "học kỳ tiếp theo"
+   ],
+   "triples": [
+    [
+     "QĐ 310/QĐ-ĐHABC",
+     "quy định",
+     "mức học phí năm học 2026 - 2027"
+    ],
+    [
+     "QĐ 310/QĐ-ĐHABC",
+     "có",
+     "Điều 3"
+    ],
+    [
+     "Điều 3",
+     "quy định",
+     "thời hạn nộp học phí"
+    ],
+    [
+     "Người học",
+     "nộp học phí chậm quá",
+     "15 ngày"
+    ],
+    [
+     "Người học",
+     "không được đăng ký học phần",
+     "học kỳ tiếp theo"
+    ],
+    [
+     "15 ngày",
+     "tính so với",
+     "thời hạn nộp học phí"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ đại học#Đ2.K3": {
+   "entities": [
+    "Quy chế đào tạo trình độ đại học",
+    "QĐ 90/QĐ-ĐHABC",
+    "Điều 2",
+    "Khóa luận tốt nghiệp",
+    "sinh viên",
+    "khóa luận",
+    "khoa",
+    "10 ngày trước ngày chấm"
+   ],
+   "triples": [
+    [
+     "QĐ 90/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ đại học"
+    ],
+    [
+     "Quy chế đào tạo trình độ đại học",
+     "gồm",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "quy định về",
+     "Khóa luận tốt nghiệp"
+    ],
+    [
+     "sinh viên",
+     "nộp",
+     "khóa luận"
+    ],
+    [
+     "sinh viên",
+     "nộp khóa luận cho",
+     "khoa"
+    ],
+    [
+     "khóa luận",
+     "có thời hạn nộp",
+     "10 ngày trước ngày chấm"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ1.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 1",
+    "Khoản 1",
+    "chương trình đào tạo",
+    "tổ chức đào tạo",
+    "đề án tốt nghiệp",
+    "cấp bằng thạc sĩ",
+    "Trường Đại học ABC"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "ban hành kèm",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "gồm",
+     "Điều 1"
+    ],
+    [
+     "Điều 1",
+     "quy định về",
+     "chương trình đào tạo"
+    ],
+    [
+     "Điều 1",
+     "quy định về",
+     "tổ chức đào tạo"
+    ],
+    [
+     "Điều 1",
+     "quy định về",
+     "đề án tốt nghiệp"
+    ],
+    [
+     "Điều 1",
+     "quy định về",
+     "cấp bằng thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "áp dụng tại",
+     "Trường Đại học ABC"
+    ]
+   ]
+  },
+  "245/QĐ-ĐHABC#Đ1.K2": {
+   "entities": [
+    "QĐ 245/QĐ-ĐHABC",
+    "Về việc sửa đổi, bổ sung một số điều của Quy chế đào tạo trình độ thạc sĩ",
+    "Quyết định số 100/QĐ-ĐHABC",
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "Điều 1",
+    "Khoản 2",
+    "khoản 1 Điều 7",
+    "Hội đồng chấm",
+    "03 người",
+    "chủ tịch",
+    "thư ký kiêm ủy viên",
+    "01 người nhận xét độc lập"
+   ],
+   "triples": [
+    [
+     "QĐ 245/QĐ-ĐHABC",
+     "sửa đổi, bổ sung",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "ban hành kèm theo",
+     "Quyết định số 100/QĐ-ĐHABC"
+    ],
+    [
+     "QĐ 245/QĐ-ĐHABC",
+     "gồm",
+     "Điều 1"
+    ],
+    [
+     "Khoản 2",
+     "sửa đổi",
+     "khoản 1 Điều 7"
+    ],
+    [
+     "khoản 1 Điều 7",
+     "quy định",
+     "Hội đồng chấm"
+    ],
+    [
+     "Hội đồng chấm",
+     "có",
+     "03 người"
+    ],
+    [
+     "Hội đồng chấm",
+     "gồm",
+     "chủ tịch"
+    ],
+    [
+     "Hội đồng chấm",
+     "gồm",
+     "thư ký kiêm ủy viên"
+    ],
+    [
+     "Hội đồng chấm",
+     "gồm",
+     "01 người nhận xét độc lập"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ tiến sĩ#Đ2.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ tiến sĩ",
+    "QĐ 101/QĐ-ĐHABC",
+    "Điều 2",
+    "Hồ sơ đề nghị bảo vệ luận án cấp Trường",
+    "Nghiên cứu sinh",
+    "hồ sơ đề nghị bảo vệ luận án cấp Trường",
+    "45 ngày trước ngày dự kiến bảo vệ"
+   ],
+   "triples": [
+    [
+     "QĐ 101/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ tiến sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ tiến sĩ",
+     "gồm",
+     "Điều 2"
+    ],
+    [
+     "Nghiên cứu sinh",
+     "nộp",
+     "Hồ sơ đề nghị bảo vệ luận án cấp Trường"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ luận án cấp Trường",
+     "có thời hạn nộp",
+     "45 ngày trước ngày dự kiến bảo vệ"
+    ]
+   ]
+  },
+  "05/KH-ĐHABC#M4": {
+   "entities": [
+    "KH 05/KH-ĐHABC",
+    "Đào tạo năm học 2026 - 2027",
+    "Mục 4",
+    "Nghỉ Tết Nguyên đán",
+    "01/02/2027",
+    "14/02/2027"
+   ],
+   "triples": [
+    [
+     "KH 05/KH-ĐHABC",
+     "có tên",
+     "Đào tạo năm học 2026 - 2027"
+    ],
+    [
+     "Đào tạo năm học 2026 - 2027",
+     "gồm",
+     "Mục 4"
+    ],
+    [
+     "Mục 4",
+     "quy định",
+     "Nghỉ Tết Nguyên đán"
+    ],
+    [
+     "Nghỉ Tết Nguyên đán",
+     "bắt đầu từ",
+     "01/02/2027"
+    ],
+    [
+     "Nghỉ Tết Nguyên đán",
+     "kết thúc vào",
+     "14/02/2027"
+    ]
+   ]
+  },
+  "31/TB-ĐHABC#M3": {
+   "entities": [
+    "TB 31/TB-ĐHABC",
+    "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 6/2026",
+    "Mục 3",
+    "Học viên",
+    "danh sách hội đồng",
+    "lịch bảo vệ",
+    "cổng thông tin đào tạo",
+    "tháng 6/2026"
+   ],
+   "triples": [
+    [
+     "TB 31/TB-ĐHABC",
+     "về việc tổ chức",
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 6/2026"
+    ],
+    [
+     "TB 31/TB-ĐHABC",
+     "có",
+     "Mục 3"
+    ],
+    [
+     "Học viên",
+     "theo dõi",
+     "danh sách hội đồng"
+    ],
+    [
+     "Học viên",
+     "theo dõi",
+     "lịch bảo vệ"
+    ],
+    [
+     "Học viên",
+     "theo dõi trên",
+     "cổng thông tin đào tạo"
+    ],
+    [
+     "lịch bảo vệ",
+     "thuộc đợt",
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 6/2026"
+    ]
+   ]
+  },
+  "05/KH-ĐHABC#M1": {
+   "entities": [
+    "KH 05/KH-ĐHABC",
+    "Đào tạo năm học 2026 - 2027",
+    "Mục 1",
+    "Học kỳ I",
+    "ngày 07/9/2026",
+    "ngày 10/01/2027"
+   ],
+   "triples": [
+    [
+     "KH 05/KH-ĐHABC",
+     "có tiêu đề",
+     "Đào tạo năm học 2026 - 2027"
+    ],
+    [
+     "Đào tạo năm học 2026 - 2027",
+     "gồm",
+     "Mục 1"
+    ],
+    [
+     "Mục 1",
+     "quy định",
+     "Học kỳ I"
+    ],
+    [
+     "Học kỳ I",
+     "bắt đầu từ",
+     "ngày 07/9/2026"
+    ],
+    [
+     "Học kỳ I",
+     "kết thúc vào",
+     "ngày 10/01/2027"
+    ]
+   ]
+  },
+  "310/QĐ-ĐHABC#Đ1": {
+   "entities": [
+    "QĐ 310/QĐ-ĐHABC",
+    "Quy định mức học phí năm học 2026 - 2027",
+    "Điều 1",
+    "mức học phí",
+    "trình độ đại học chính quy",
+    "năm học 2026 - 2027",
+    "1.200.000 đồng/tín chỉ"
+   ],
+   "triples": [
+    [
+     "QĐ 310/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định mức học phí năm học 2026 - 2027"
+    ],
+    [
+     "Quy định mức học phí năm học 2026 - 2027",
+     "gồm",
+     "Điều 1"
+    ],
+    [
+     "mức học phí",
+     "áp dụng cho",
+     "trình độ đại học chính quy"
+    ],
+    [
+     "mức học phí",
+     "là",
+     "1.200.000 đồng/tín chỉ"
+    ],
+    [
+     "mức học phí",
+     "áp dụng trong",
+     "năm học 2026 - 2027"
+    ]
+   ]
+  },
+  "07/HD-ĐHABC#M3": {
+   "entities": [
+    "HD 07/HD-ĐHABC",
+    "Trình bày đề án tốt nghiệp thạc sĩ",
+    "Mục 3",
+    "Tài liệu tham khảo",
+    "chuẩn IEEE",
+    "chuẩn APA",
+    "toàn bộ đề án"
+   ],
+   "triples": [
+    [
+     "HD 07/HD-ĐHABC",
+     "hướng dẫn",
+     "Trình bày đề án tốt nghiệp thạc sĩ"
+    ],
+    [
+     "Trình bày đề án tốt nghiệp thạc sĩ",
+     "có",
+     "Mục 3"
+    ],
+    [
+     "Tài liệu tham khảo",
+     "trình bày theo",
+     "chuẩn IEEE"
+    ],
+    [
+     "Tài liệu tham khảo",
+     "trình bày theo",
+     "chuẩn APA"
+    ],
+    [
+     "Tài liệu tham khảo",
+     "được thống nhất trong",
+     "toàn bộ đề án"
+    ]
+   ]
+  },
+  "180/QĐ-ĐHABC#Đ3": {
+   "entities": [
+    "QĐ 180/QĐ-ĐHABC",
+    "Quy định về công tác cố vấn học tập",
+    "Điều 3",
+    "Cố vấn học tập",
+    "20 giờ chuẩn",
+    "mỗi lớp phụ trách",
+    "một năm học"
+   ],
+   "triples": [
+    [
+     "QĐ 180/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định về công tác cố vấn học tập"
+    ],
+    [
+     "Quy định về công tác cố vấn học tập",
+     "có",
+     "Điều 3"
+    ],
+    [
+     "Cố vấn học tập",
+     "được tính",
+     "20 giờ chuẩn"
+    ],
+    [
+     "Cố vấn học tập",
+     "phụ trách",
+     "mỗi lớp phụ trách"
+    ],
+    [
+     "Cố vấn học tập",
+     "được tính trong",
+     "một năm học"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ7.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 7",
+    "Hội đồng đánh giá đề án tốt nghiệp",
+    "Khoản 2",
+    "thành viên hội đồng",
+    "bằng tiến sĩ",
+    "01 thành viên ngoài Trường"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "ban hành kèm",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 7"
+    ],
+    [
+     "Điều 7",
+     "quy định về",
+     "Hội đồng đánh giá đề án tốt nghiệp"
+    ],
+    [
+     "thành viên hội đồng",
+     "phải có",
+     "bằng tiến sĩ"
+    ],
+    [
+     "Hội đồng đánh giá đề án tốt nghiệp",
+     "có ít nhất",
+     "01 thành viên ngoài Trường"
+    ]
+   ]
+  },
+  "245/QĐ-ĐHABC#Đ1.K1": {
+   "entities": [
+    "QĐ 245/QĐ-ĐHABC",
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "Quyết định số 100/QĐ-ĐHABC",
+    "Điều 1",
+    "Khoản 1",
+    "khoản 2 Điều 5",
+    "Phòng Đào tạo",
+    "hồ sơ đề nghị đánh giá đề án",
+    "15 ngày làm việc",
+    "ngày họp hội đồng",
+    "hội đồng"
+   ],
+   "triples": [
+    [
+     "QĐ 245/QĐ-ĐHABC",
+     "sửa đổi, bổ sung",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "ban hành kèm theo",
+     "Quyết định số 100/QĐ-ĐHABC"
+    ],
+    [
+     "QĐ 245/QĐ-ĐHABC",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "Điều 1",
+     "gồm",
+     "Khoản 1"
+    ],
+    [
+     "Khoản 1",
+     "sửa đổi",
+     "khoản 2 Điều 5"
+    ],
+    [
+     "Phòng Đào tạo",
+     "tiếp nhận",
+     "hồ sơ đề nghị đánh giá đề án"
+    ],
+    [
+     "Phòng Đào tạo",
+     "tiếp nhận hồ sơ không muộn hơn",
+     "15 ngày làm việc"
+    ],
+    [
+     "15 ngày làm việc",
+     "tính đến",
+     "ngày họp hội đồng"
+    ],
+    [
+     "hội đồng",
+     "có",
+     "ngày họp hội đồng"
+    ]
+   ]
+  },
+  "44/TB-ĐHABC#M2": {
+   "entities": [
+    "TB 44/TB-ĐHABC",
+    "tổ chức kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026",
+    "Mục 2",
+    "sinh viên",
+    "học viên cao học",
+    "thí sinh tự do"
+   ],
+   "triples": [
+    [
+     "TB 44/TB-ĐHABC",
+     "về việc tổ chức",
+     "tổ chức kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026"
+    ],
+    [
+     "Mục 2",
+     "quy định đối tượng dự thi",
+     "tổ chức kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026"
+    ],
+    [
+     "tổ chức kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026",
+     "có đối tượng dự thi",
+     "sinh viên"
+    ],
+    [
+     "tổ chức kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026",
+     "có đối tượng dự thi",
+     "học viên cao học"
+    ],
+    [
+     "tổ chức kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026",
+     "có đối tượng dự thi",
+     "thí sinh tự do"
+    ]
+   ]
+  },
+  "412/ĐHABC-ĐT#M3": {
+   "entities": [
+    "CV 412/ĐHABC-ĐT",
+    "Về việc gia hạn thời gian học tập đối với học viên cao học",
+    "Mục 3",
+    "Học viên",
+    "học phí",
+    "số tín chỉ đăng ký",
+    "thời gian gia hạn"
+   ],
+   "triples": [
+    [
+     "CV 412/ĐHABC-ĐT",
+     "có",
+     "Mục 3"
+    ],
+    [
+     "CV 412/ĐHABC-ĐT",
+     "về việc",
+     "Về việc gia hạn thời gian học tập đối với học viên cao học"
+    ],
+    [
+     "Học viên",
+     "được gia hạn trong",
+     "thời gian gia hạn"
+    ],
+    [
+     "Học viên",
+     "phải nộp",
+     "học phí"
+    ],
+    [
+     "học phí",
+     "tính theo",
+     "số tín chỉ đăng ký"
+    ],
+    [
+     "Học viên",
+     "nộp học phí trong",
+     "thời gian gia hạn"
+    ]
+   ]
+  },
+  "205/QĐ-ĐHABC#Đ2.K2": {
+   "entities": [
+    "QĐ 205/QĐ-ĐHABC",
+    "Quy định chế độ làm việc của giảng viên",
+    "Điều 2",
+    "giảng viên",
+    "hoạt động sau đại học",
+    "Khoản 2",
+    "hội đồng đánh giá đề án tốt nghiệp thạc sĩ",
+    "chủ tịch",
+    "4 giờ chuẩn",
+    "các thành viên khác",
+    "3 giờ chuẩn"
+   ],
+   "triples": [
+    [
+     "QĐ 205/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định chế độ làm việc của giảng viên"
+    ],
+    [
+     "Quy định chế độ làm việc của giảng viên",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "quy định về",
+     "hoạt động sau đại học"
+    ],
+    [
+     "giảng viên",
+     "tham gia",
+     "hội đồng đánh giá đề án tốt nghiệp thạc sĩ"
+    ],
+    [
+     "chủ tịch",
+     "được tính",
+     "4 giờ chuẩn"
+    ],
+    [
+     "các thành viên khác",
+     "được tính",
+     "3 giờ chuẩn"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ tiến sĩ#Đ1.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ tiến sĩ",
+    "QĐ 101/QĐ-ĐHABC",
+    "Điều 1",
+    "thời gian đào tạo tiến sĩ",
+    "Khoản 1",
+    "người có bằng thạc sĩ",
+    "3 năm"
+   ],
+   "triples": [
+    [
+     "QĐ 101/QĐ-ĐHABC",
+     "kèm",
+     "Quy chế đào tạo trình độ tiến sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ tiến sĩ",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "thời gian đào tạo tiến sĩ",
+     "áp dụng cho",
+     "người có bằng thạc sĩ"
+    ],
+    [
+     "thời gian đào tạo tiến sĩ",
+     "là",
+     "3 năm"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ đại học#Đ2.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ đại học",
+    "QĐ 90/QĐ-ĐHABC",
+    "Điều 2",
+    "khóa luận tốt nghiệp",
+    "sinh viên",
+    "điểm trung bình tích lũy",
+    "2,8"
+   ],
+   "triples": [
+    [
+     "QĐ 90/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ đại học"
+    ],
+    [
+     "Quy chế đào tạo trình độ đại học",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "sinh viên",
+     "được đăng ký làm",
+     "khóa luận tốt nghiệp"
+    ],
+    [
+     "sinh viên",
+     "có điểm trung bình tích lũy từ",
+     "2,8"
+    ]
+   ]
+  },
+  "412/ĐHABC-ĐT#M2": {
+   "entities": [
+    "CV 412/ĐHABC-ĐT",
+    "Về việc gia hạn thời gian học tập đối với học viên cao học",
+    "Mục 2",
+    "học viên cao học",
+    "06 tháng",
+    "tổng thời gian học tập",
+    "thời gian đào tạo tối đa",
+    "Quy chế đào tạo trình độ thạc sĩ hiện hành"
+   ],
+   "triples": [
+    [
+     "CV 412/ĐHABC-ĐT",
+     "về việc",
+     "Về việc gia hạn thời gian học tập đối với học viên cao học"
+    ],
+    [
+     "CV 412/ĐHABC-ĐT",
+     "gồm",
+     "Mục 2"
+    ],
+    [
+     "học viên cao học",
+     "được gia hạn thời gian học tập mỗi lần không quá",
+     "06 tháng"
+    ],
+    [
+     "tổng thời gian học tập",
+     "không vượt quá",
+     "thời gian đào tạo tối đa"
+    ],
+    [
+     "tổng thời gian học tập",
+     "tuân theo",
+     "Quy chế đào tạo trình độ thạc sĩ hiện hành"
+    ]
+   ]
+  },
+  "12/HD-ĐHABC#M1": {
+   "entities": [
+    "HD 12/HD-ĐHABC",
+    "chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ",
+    "Mục 1",
+    "học viên",
+    "trình độ thạc sĩ",
+    "Bậc 4",
+    "Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam",
+    "trước khi bảo vệ đề án",
+    "đề án"
+   ],
+   "triples": [
+    [
+     "HD 12/HD-ĐHABC",
+     "quy định",
+     "chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ"
+    ],
+    [
+     "chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ",
+     "gồm",
+     "Mục 1"
+    ],
+    [
+     "học viên",
+     "thuộc",
+     "trình độ thạc sĩ"
+    ],
+    [
+     "học viên",
+     "phải đạt",
+     "Bậc 4"
+    ],
+    [
+     "Bậc 4",
+     "theo",
+     "Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam"
+    ],
+    [
+     "học viên",
+     "phải đạt trước khi",
+     "bảo vệ đề án"
+    ],
+    [
+     "học viên",
+     "bảo vệ",
+     "đề án"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ4.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 4",
+    "Người hướng dẫn đề án",
+    "Khoản 2",
+    "người hướng dẫn",
+    "bằng tiến sĩ",
+    "chuyên ngành phù hợp",
+    "đề tài",
+    "học viên"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 4"
+    ],
+    [
+     "Điều 4",
+     "quy định về",
+     "Người hướng dẫn đề án"
+    ],
+    [
+     "người hướng dẫn",
+     "phải có",
+     "bằng tiến sĩ"
+    ],
+    [
+     "bằng tiến sĩ",
+     "thuộc",
+     "chuyên ngành phù hợp"
+    ],
+    [
+     "chuyên ngành phù hợp",
+     "phù hợp với",
+     "đề tài"
+    ],
+    [
+     "đề tài",
+     "của",
+     "học viên"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ tiến sĩ#Đ1.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ tiến sĩ",
+    "QĐ 101/QĐ-ĐHABC",
+    "Điều 1",
+    "nghiên cứu sinh",
+    "2 năm",
+    "lý do chính đáng"
+   ],
+   "triples": [
+    [
+     "QĐ 101/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ tiến sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ tiến sĩ",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "nghiên cứu sinh",
+     "được gia hạn tối đa",
+     "2 năm"
+    ],
+    [
+     "nghiên cứu sinh",
+     "được gia hạn khi có",
+     "lý do chính đáng"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ đại học#Đ3.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ đại học",
+    "QĐ 90/QĐ-ĐHABC",
+    "Điều 3",
+    "xếp loại tốt nghiệp",
+    "Khoản 1",
+    "hạng tốt nghiệp",
+    "điểm trung bình tích lũy toàn khóa",
+    "thang điểm 4"
+   ],
+   "triples": [
+    [
+     "QĐ 90/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ đại học"
+    ],
+    [
+     "Quy chế đào tạo trình độ đại học",
+     "gồm",
+     "Điều 3"
+    ],
+    [
+     "Điều 3",
+     "quy định",
+     "xếp loại tốt nghiệp"
+    ],
+    [
+     "Điều 3",
+     "gồm",
+     "Khoản 1"
+    ],
+    [
+     "hạng tốt nghiệp",
+     "được xác định theo",
+     "điểm trung bình tích lũy toàn khóa"
+    ],
+    [
+     "điểm trung bình tích lũy toàn khóa",
+     "tính theo",
+     "thang điểm 4"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ3.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 3",
+    "Đề án tốt nghiệp",
+    "Khoản 2",
+    "vấn đề thực tiễn",
+    "lĩnh vực chuyên môn",
+    "Trường"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 3"
+    ],
+    [
+     "Điều 3",
+     "quy định về",
+     "Đề án tốt nghiệp"
+    ],
+    [
+     "Đề án tốt nghiệp",
+     "phải giải quyết",
+     "vấn đề thực tiễn"
+    ],
+    [
+     "vấn đề thực tiễn",
+     "thuộc",
+     "lĩnh vực chuyên môn"
+    ],
+    [
+     "Đề án tốt nghiệp",
+     "được trình bày theo hướng dẫn của",
+     "Trường"
+    ]
+   ]
+  },
+  "220/QĐ-ĐHABC#Đ2.K1": {
+   "entities": [
+    "QĐ 220/QĐ-ĐHABC",
+    "Quy định xét học bổng khuyến khích học tập",
+    "Điều 2",
+    "người học",
+    "điểm trung bình học kỳ từ 3,2 trở lên",
+    "3,2",
+    "thang điểm 4",
+    "điểm rèn luyện từ loại Tốt trở lên",
+    "loại Tốt"
+   ],
+   "triples": [
+    [
+     "QĐ 220/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định xét học bổng khuyến khích học tập"
+    ],
+    [
+     "Quy định xét học bổng khuyến khích học tập",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "người học",
+     "có điểm trung bình học kỳ từ",
+     "3,2"
+    ],
+    [
+     "điểm trung bình học kỳ từ 3,2 trở lên",
+     "tính theo",
+     "thang điểm 4"
+    ],
+    [
+     "người học",
+     "có điểm rèn luyện từ",
+     "loại Tốt"
+    ],
+    [
+     "điểm rèn luyện",
+     "đạt từ",
+     "loại Tốt"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ2.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 2",
+    "chương trình thạc sĩ",
+    "2 năm học"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "chương trình thạc sĩ",
+     "có thời gian đào tạo chuẩn",
+     "2 năm học"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ tiến sĩ#Đ3.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ tiến sĩ",
+    "QĐ 101/QĐ-ĐHABC",
+    "Điều 3",
+    "Hội đồng đánh giá luận án cấp Trường",
+    "Khoản 2",
+    "02 thành viên hội đồng",
+    "nhà khoa học ngoài Trường"
+   ],
+   "triples": [
+    [
+     "QĐ 101/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ tiến sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ tiến sĩ",
+     "gồm",
+     "Điều 3"
+    ],
+    [
+     "Điều 3",
+     "quy định về",
+     "Hội đồng đánh giá luận án cấp Trường"
+    ],
+    [
+     "Hội đồng đánh giá luận án cấp Trường",
+     "có ít nhất",
+     "02 thành viên hội đồng"
+    ],
+    [
+     "02 thành viên hội đồng",
+     "là",
+     "nhà khoa học ngoài Trường"
+    ]
+   ]
+  },
+  "220/QĐ-ĐHABC#Đ1": {
+   "entities": [
+    "QĐ 220/QĐ-ĐHABC",
+    "Quy định xét học bổng khuyến khích học tập",
+    "Điều 1",
+    "Học bổng khuyến khích học tập",
+    "từng học kỳ",
+    "sinh viên đại học chính quy",
+    "học viên cao học"
+   ],
+   "triples": [
+    [
+     "QĐ 220/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định xét học bổng khuyến khích học tập"
+    ],
+    [
+     "Quy định xét học bổng khuyến khích học tập",
+     "gồm",
+     "Điều 1"
+    ],
+    [
+     "Học bổng khuyến khích học tập",
+     "được xét theo",
+     "từng học kỳ"
+    ],
+    [
+     "Học bổng khuyến khích học tập",
+     "dành cho",
+     "sinh viên đại học chính quy"
+    ],
+    [
+     "Học bổng khuyến khích học tập",
+     "dành cho",
+     "học viên cao học"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ tiến sĩ#Đ2.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ tiến sĩ",
+    "QĐ 101/QĐ-ĐHABC",
+    "Điều 2",
+    "Hồ sơ đề nghị bảo vệ luận án cấp Trường",
+    "Khoản 2",
+    "hồ sơ",
+    "luận án",
+    "tóm tắt luận án",
+    "danh mục công trình đã công bố",
+    "biên bản bảo vệ cấp đơn vị chuyên môn",
+    "Trường",
+    "đơn vị chuyên môn"
+   ],
+   "triples": [
+    [
+     "QĐ 101/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ tiến sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ tiến sĩ",
+     "gồm",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "quy định",
+     "Hồ sơ đề nghị bảo vệ luận án cấp Trường"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ luận án cấp Trường",
+     "gồm",
+     "luận án"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ luận án cấp Trường",
+     "gồm",
+     "tóm tắt luận án"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ luận án cấp Trường",
+     "gồm",
+     "danh mục công trình đã công bố"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ luận án cấp Trường",
+     "gồm",
+     "biên bản bảo vệ cấp đơn vị chuyên môn"
+    ],
+    [
+     "biên bản bảo vệ cấp đơn vị chuyên môn",
+     "bảo vệ tại",
+     "đơn vị chuyên môn"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ luận án cấp Trường",
+     "đề nghị bảo vệ tại",
+     "Trường"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ5.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 5",
+    "Hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+    "Khoản 1",
+    "đơn đề nghị bảo vệ",
+    "bản đề án tốt nghiệp",
+    "nhận xét của người hướng dẫn",
+    "kết quả kiểm tra trùng lặp"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 5"
+    ],
+    [
+     "Điều 5",
+     "quy định",
+     "Hồ sơ đề nghị bảo vệ đề án tốt nghiệp"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+     "gồm",
+     "đơn đề nghị bảo vệ"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+     "gồm",
+     "bản đề án tốt nghiệp"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+     "gồm",
+     "nhận xét của người hướng dẫn"
+    ],
+    [
+     "Hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+     "gồm",
+     "kết quả kiểm tra trùng lặp"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ tiến sĩ#Đ4.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ tiến sĩ",
+    "QĐ 101/QĐ-ĐHABC",
+    "Điều 4",
+    "Công bố khoa học",
+    "Khoản 1",
+    "Nghiên cứu sinh",
+    "ít nhất 02 bài báo",
+    "luận án",
+    "01 bài",
+    "tạp chí thuộc danh mục quốc tế"
+   ],
+   "triples": [
+    [
+     "QĐ 101/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ tiến sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ tiến sĩ",
+     "gồm",
+     "Điều 4"
+    ],
+    [
+     "Điều 4",
+     "có nội dung",
+     "Công bố khoa học"
+    ],
+    [
+     "Nghiên cứu sinh",
+     "phải có ít nhất",
+     "ít nhất 02 bài báo"
+    ],
+    [
+     "ít nhất 02 bài báo",
+     "liên quan đến",
+     "luận án"
+    ],
+    [
+     "ít nhất 02 bài báo",
+     "bao gồm",
+     "01 bài"
+    ],
+    [
+     "01 bài",
+     "đăng trên",
+     "tạp chí thuộc danh mục quốc tế"
+    ]
+   ]
+  },
+  "220/QĐ-ĐHABC#Đ2.K2": {
+   "entities": [
+    "QĐ 220/QĐ-ĐHABC",
+    "Quy định xét học bổng khuyến khích học tập",
+    "Điều 2",
+    "Khoản 2",
+    "người học",
+    "mức khiển trách",
+    "học kỳ xét học bổng"
+   ],
+   "triples": [
+    [
+     "QĐ 220/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định xét học bổng khuyến khích học tập"
+    ],
+    [
+     "Quy định xét học bổng khuyến khích học tập",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "gồm",
+     "Khoản 2"
+    ],
+    [
+     "người học",
+     "không bị kỷ luật từ",
+     "mức khiển trách trở lên"
+    ],
+    [
+     "người học",
+     "áp dụng trong",
+     "học kỳ xét học bổng"
+    ]
+   ]
+  },
+  "12/HD-ĐHABC#M3": {
+   "entities": [
+    "HD 12/HD-ĐHABC",
+    "Chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ",
+    "học viên trình độ thạc sĩ",
+    "Mục 3",
+    "chứng chỉ",
+    "02 năm",
+    "ngày nộp hồ sơ đề nghị bảo vệ",
+    "hồ sơ đề nghị bảo vệ"
+   ],
+   "triples": [
+    [
+     "HD 12/HD-ĐHABC",
+     "hướng dẫn",
+     "Chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ"
+    ],
+    [
+     "Chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ",
+     "có",
+     "Mục 3"
+    ],
+    [
+     "chứng chỉ",
+     "phải còn thời hạn",
+     "02 năm"
+    ],
+    [
+     "chứng chỉ",
+     "tính thời hạn đến",
+     "ngày nộp hồ sơ đề nghị bảo vệ"
+    ],
+    [
+     "hồ sơ đề nghị bảo vệ",
+     "có ngày nộp là",
+     "ngày nộp hồ sơ đề nghị bảo vệ"
+    ]
+   ]
+  },
+  "07/HD-ĐHABC#M2": {
+   "entities": [
+    "HD 07/HD-ĐHABC",
+    "Trình bày đề án tốt nghiệp thạc sĩ",
+    "Mục 2",
+    "Đề án",
+    "phông chữ Times New Roman",
+    "cỡ 13",
+    "giãn dòng 1,5"
+   ],
+   "triples": [
+    [
+     "HD 07/HD-ĐHABC",
+     "có tiêu đề",
+     "Trình bày đề án tốt nghiệp thạc sĩ"
+    ],
+    [
+     "Trình bày đề án tốt nghiệp thạc sĩ",
+     "gồm",
+     "Mục 2"
+    ],
+    [
+     "Đề án",
+     "sử dụng phông chữ",
+     "phông chữ Times New Roman"
+    ],
+    [
+     "Đề án",
+     "có cỡ chữ",
+     "cỡ 13"
+    ],
+    [
+     "Đề án",
+     "có giãn dòng",
+     "giãn dòng 1,5"
+    ]
+   ]
+  },
+  "220/QĐ-ĐHABC#Đ3": {
+   "entities": [
+    "QĐ 220/QĐ-ĐHABC",
+    "Quy định xét học bổng khuyến khích học tập",
+    "Điều 3",
+    "mức học bổng",
+    "loại Xuất sắc",
+    "150% học phí của học kỳ",
+    "loại Giỏi",
+    "120%",
+    "loại Khá",
+    "100%",
+    "học phí",
+    "học kỳ"
+   ],
+   "triples": [
+    [
+     "QĐ 220/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định xét học bổng khuyến khích học tập"
+    ],
+    [
+     "Quy định xét học bổng khuyến khích học tập",
+     "gồm",
+     "Điều 3"
+    ],
+    [
+     "mức học bổng",
+     "loại Xuất sắc bằng",
+     "150% học phí của học kỳ"
+    ],
+    [
+     "mức học bổng",
+     "loại Giỏi bằng",
+     "120%"
+    ],
+    [
+     "mức học bổng",
+     "loại Khá bằng",
+     "100%"
+    ],
+    [
+     "150% học phí của học kỳ",
+     "tính theo",
+     "học phí"
+    ],
+    [
+     "120%",
+     "tính theo",
+     "học phí"
+    ],
+    [
+     "100%",
+     "tính theo",
+     "học phí"
+    ]
+   ]
+  },
+  "58/TB-ĐHABC#M3": {
+   "entities": [
+    "TB 58/TB-ĐHABC",
+    "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027",
+    "Mục 3",
+    "Thời hạn nộp hồ sơ",
+    "học viên",
+    "Quy chế đào tạo trình độ thạc sĩ hiện hành"
+   ],
+   "triples": [
+    [
+     "TB 58/TB-ĐHABC",
+     "về việc tổ chức",
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027"
+    ],
+    [
+     "TB 58/TB-ĐHABC",
+     "có",
+     "Mục 3"
+    ],
+    [
+     "Mục 3",
+     "quy định",
+     "Thời hạn nộp hồ sơ"
+    ],
+    [
+     "học viên",
+     "nộp hồ sơ theo thời hạn quy định tại",
+     "Quy chế đào tạo trình độ thạc sĩ hiện hành"
+    ]
+   ]
+  },
+  "44/TB-ĐHABC#M1": {
+   "entities": [
+    "TB 44/TB-ĐHABC",
+    "Về việc tổ chức kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026",
+    "Mục 1",
+    "kỳ thi đánh giá năng lực ngoại ngữ",
+    "Khung 6 bậc",
+    "ngày 12/12/2026",
+    "Trung tâm Ngoại ngữ",
+    "Trường"
+   ],
+   "triples": [
+    [
+     "TB 44/TB-ĐHABC",
+     "về việc tổ chức",
+     "kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026"
+    ],
+    [
+     "TB 44/TB-ĐHABC",
+     "có",
+     "Mục 1"
+    ],
+    [
+     "kỳ thi đánh giá năng lực ngoại ngữ",
+     "theo",
+     "Khung 6 bậc"
+    ],
+    [
+     "kỳ thi đánh giá năng lực ngoại ngữ",
+     "được tổ chức vào",
+     "ngày 12/12/2026"
+    ],
+    [
+     "kỳ thi đánh giá năng lực ngoại ngữ",
+     "được tổ chức tại",
+     "Trung tâm Ngoại ngữ"
+    ],
+    [
+     "Trung tâm Ngoại ngữ",
+     "thuộc",
+     "Trường"
+    ]
+   ]
+  },
+  "330/QĐ-ĐHABC#Đ3": {
+   "entities": [
+    "QĐ 330/QĐ-ĐHABC",
+    "Quy định miễn, giảm học phí",
+    "Điều 3",
+    "Hồ sơ đề nghị miễn, giảm học phí",
+    "Phòng Công tác sinh viên",
+    "30 ngày kể từ ngày bắt đầu học kỳ"
+   ],
+   "triples": [
+    [
+     "QĐ 330/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định miễn, giảm học phí"
+    ],
+    [
+     "Quy định miễn, giảm học phí",
+     "có",
+     "Điều 3"
+    ],
+    [
+     "Hồ sơ đề nghị miễn, giảm học phí",
+     "nộp tại",
+     "Phòng Công tác sinh viên"
+    ],
+    [
+     "Hồ sơ đề nghị miễn, giảm học phí",
+     "có thời hạn nộp",
+     "30 ngày kể từ ngày bắt đầu học kỳ"
+    ]
+   ]
+  },
+  "58/TB-ĐHABC#M2": {
+   "entities": [
+    "TB 58/TB-ĐHABC",
+    "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027",
+    "Mục 2",
+    "18/01/2027",
+    "22/01/2027",
+    "cơ sở chính của Trường"
+   ],
+   "triples": [
+    [
+     "TB 58/TB-ĐHABC",
+     "về việc",
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027"
+    ],
+    [
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027",
+     "gồm",
+     "Mục 2"
+    ],
+    [
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027",
+     "có thời gian dự kiến từ",
+     "18/01/2027"
+    ],
+    [
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027",
+     "có thời gian dự kiến đến",
+     "22/01/2027"
+    ],
+    [
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027",
+     "địa điểm tại",
+     "cơ sở chính của Trường"
+    ]
+   ]
+  },
+  "20/TB-ĐHABC#M3": {
+   "entities": [
+    "TB 20/TB-ĐHABC",
+    "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+    "Mục 3",
+    "Hình thức tuyển sinh",
+    "xét tuyển hồ sơ",
+    "phỏng vấn chuyên môn"
+   ],
+   "triples": [
+    [
+     "TB 20/TB-ĐHABC",
+     "về",
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026"
+    ],
+    [
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+     "gồm",
+     "Mục 3"
+    ],
+    [
+     "Mục 3",
+     "quy định",
+     "Hình thức tuyển sinh"
+    ],
+    [
+     "Hình thức tuyển sinh",
+     "gồm",
+     "xét tuyển hồ sơ"
+    ],
+    [
+     "Hình thức tuyển sinh",
+     "kết hợp",
+     "phỏng vấn chuyên môn"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ đại học#Đ1.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ đại học",
+    "QĐ 90/QĐ-ĐHABC",
+    "Điều 1",
+    "sinh viên",
+    "đăng ký học phần",
+    "14 tín chỉ",
+    "25 tín chỉ",
+    "mỗi học kỳ chính"
+   ],
+   "triples": [
+    [
+     "QĐ 90/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ đại học"
+    ],
+    [
+     "Quy chế đào tạo trình độ đại học",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "sinh viên",
+     "đăng ký",
+     "đăng ký học phần"
+    ],
+    [
+     "sinh viên",
+     "đăng ký tối thiểu",
+     "14 tín chỉ"
+    ],
+    [
+     "sinh viên",
+     "đăng ký tối đa",
+     "25 tín chỉ"
+    ],
+    [
+     "sinh viên",
+     "đăng ký trong",
+     "mỗi học kỳ chính"
+    ]
+   ]
+  },
+  "245/QĐ-ĐHABC#Đ2": {
+   "entities": [
+    "QĐ 245/QĐ-ĐHABC",
+    "Quyết định sửa đổi, bổ sung một số điều của Quy chế đào tạo trình độ thạc sĩ",
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "Quyết định số 100/QĐ-ĐHABC",
+    "Điều 2",
+    "01/4/2025"
+   ],
+   "triples": [
+    [
+     "QĐ 245/QĐ-ĐHABC",
+     "sửa đổi, bổ sung",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quyết định số 100/QĐ-ĐHABC",
+     "ban hành",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "QĐ 245/QĐ-ĐHABC",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "QĐ 245/QĐ-ĐHABC",
+     "có hiệu lực từ ngày",
+     "01/4/2025"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ5.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 5",
+    "hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+    "Khoản 2",
+    "học viên",
+    "Phòng Đào tạo",
+    "30 ngày trước ngày bảo vệ"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "gồm",
+     "Điều 5"
+    ],
+    [
+     "học viên",
+     "nộp",
+     "hồ sơ đề nghị bảo vệ đề án tốt nghiệp"
+    ],
+    [
+     "hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+     "nộp về",
+     "Phòng Đào tạo"
+    ],
+    [
+     "hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+     "có thời hạn nộp",
+     "30 ngày trước ngày bảo vệ"
+    ]
+   ]
+  },
+  "245/QĐ-ĐHABC#Đ3": {
+   "entities": [
+    "QĐ 245/QĐ-ĐHABC",
+    "Quyết định về việc sửa đổi, bổ sung một số điều của Quy chế đào tạo trình độ thạc sĩ",
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "Quyết định số 100/QĐ-ĐHABC",
+    "Điều 3",
+    "Trưởng phòng Đào tạo",
+    "các đơn vị liên quan"
+   ],
+   "triples": [
+    [
+     "QĐ 245/QĐ-ĐHABC",
+     "sửa đổi, bổ sung",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "ban hành kèm theo",
+     "Quyết định số 100/QĐ-ĐHABC"
+    ],
+    [
+     "QĐ 245/QĐ-ĐHABC",
+     "có",
+     "Điều 3"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "giữ nguyên các nội dung khác",
+     "Điều 3"
+    ],
+    [
+     "Trưởng phòng Đào tạo",
+     "chịu trách nhiệm thi hành",
+     "QĐ 245/QĐ-ĐHABC"
+    ],
+    [
+     "các đơn vị liên quan",
+     "chịu trách nhiệm thi hành",
+     "QĐ 245/QĐ-ĐHABC"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ8.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 8",
+    "Đánh giá đề án tốt nghiệp",
+    "Khoản 1",
+    "đề án",
+    "thang điểm 10",
+    "một chữ số thập phân"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 8"
+    ],
+    [
+     "Điều 8",
+     "quy định về",
+     "Đánh giá đề án tốt nghiệp"
+    ],
+    [
+     "đề án",
+     "được chấm theo",
+     "thang điểm 10"
+    ],
+    [
+     "đề án",
+     "được làm tròn đến",
+     "một chữ số thập phân"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ9.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 9",
+    "Chuẩn ngoại ngữ đầu ra",
+    "Học viên",
+    "chuẩn ngoại ngữ đầu ra",
+    "công nhận tốt nghiệp"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "ban hành kèm",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 9"
+    ],
+    [
+     "Điều 9",
+     "quy định về",
+     "Chuẩn ngoại ngữ đầu ra"
+    ],
+    [
+     "Học viên",
+     "chưa đạt",
+     "chuẩn ngoại ngữ đầu ra"
+    ],
+    [
+     "Học viên chưa đạt chuẩn ngoại ngữ đầu ra",
+     "không được xét",
+     "công nhận tốt nghiệp"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ2.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 2",
+    "thời gian đào tạo",
+    "Khoản 2",
+    "4 năm",
+    "quyết định công nhận học viên",
+    "học viên"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "gồm",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "quy định",
+     "thời gian đào tạo"
+    ],
+    [
+     "thời gian đào tạo",
+     "không vượt quá",
+     "4 năm"
+    ],
+    [
+     "thời gian đào tạo",
+     "tính từ",
+     "quyết định công nhận học viên"
+    ],
+    [
+     "quyết định công nhận học viên",
+     "công nhận",
+     "học viên"
+    ]
+   ]
+  },
+  "180/QĐ-ĐHABC#Đ1": {
+   "entities": [
+    "QĐ 180/QĐ-ĐHABC",
+    "Quy định về công tác cố vấn học tập",
+    "Điều 1",
+    "lớp sinh viên đại học chính quy",
+    "01 cố vấn học tập",
+    "giảng viên cơ hữu",
+    "Trường"
+   ],
+   "triples": [
+    [
+     "QĐ 180/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định về công tác cố vấn học tập"
+    ],
+    [
+     "Quy định về công tác cố vấn học tập",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "lớp sinh viên đại học chính quy",
+     "có",
+     "01 cố vấn học tập"
+    ],
+    [
+     "01 cố vấn học tập",
+     "là",
+     "giảng viên cơ hữu"
+    ],
+    [
+     "giảng viên cơ hữu",
+     "thuộc",
+     "Trường"
+    ]
+   ]
+  },
+  "150/QĐ-ĐHABC#Đ1": {
+   "entities": [
+    "QĐ 150/QĐ-ĐHABC",
+    "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án",
+    "Điều 1",
+    "Đề án tốt nghiệp thạc sĩ",
+    "phần mềm",
+    "Thư viện Trường",
+    "hồ sơ đề nghị bảo vệ"
+   ],
+   "triples": [
+    [
+     "QĐ 150/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án"
+    ],
+    [
+     "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "Đề án tốt nghiệp thạc sĩ",
+     "phải được kiểm tra trùng lặp bằng",
+     "phần mềm"
+    ],
+    [
+     "phần mềm",
+     "do quản lý",
+     "Thư viện Trường"
+    ],
+    [
+     "Đề án tốt nghiệp thạc sĩ",
+     "được kiểm tra trước khi nộp",
+     "hồ sơ đề nghị bảo vệ"
+    ]
+   ]
+  },
+  "150/QĐ-ĐHABC#Đ2.K1": {
+   "entities": [
+    "QĐ 150/QĐ-ĐHABC",
+    "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án",
+    "Điều 2",
+    "đề án tốt nghiệp thạc sĩ",
+    "tỷ lệ trùng lặp",
+    "20%"
+   ],
+   "triples": [
+    [
+     "QĐ 150/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án"
+    ],
+    [
+     "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "đề án tốt nghiệp thạc sĩ",
+     "có tỷ lệ trùng lặp không vượt quá",
+     "20%"
+    ],
+    [
+     "đề án tốt nghiệp thạc sĩ",
+     "có",
+     "tỷ lệ trùng lặp"
+    ]
+   ]
+  },
+  "07/HD-ĐHABC#M1": {
+   "entities": [
+    "HD 07/HD-ĐHABC",
+    "Trình bày đề án tốt nghiệp thạc sĩ",
+    "Mục 1",
+    "Đề án tốt nghiệp",
+    "60 đến 100 trang",
+    "khổ A4",
+    "phụ lục"
+   ],
+   "triples": [
+    [
+     "HD 07/HD-ĐHABC",
+     "hướng dẫn",
+     "Trình bày đề án tốt nghiệp thạc sĩ"
+    ],
+    [
+     "Trình bày đề án tốt nghiệp thạc sĩ",
+     "gồm",
+     "Mục 1"
+    ],
+    [
+     "Đề án tốt nghiệp",
+     "có độ dài",
+     "60 đến 100 trang"
+    ],
+    [
+     "Đề án tốt nghiệp",
+     "có khổ",
+     "khổ A4"
+    ],
+    [
+     "Đề án tốt nghiệp",
+     "không kể",
+     "phụ lục"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ6.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 6",
+    "Điều kiện bảo vệ đề án",
+    "học viên",
+    "các học phần trong chương trình đào tạo",
+    "thời gian bị kỷ luật"
+   ],
+   "triples": [
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "kèm",
+     "QĐ 100/QĐ-ĐHABC"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 6"
+    ],
+    [
+     "Điều 6",
+     "quy định",
+     "Điều kiện bảo vệ đề án"
+    ],
+    [
+     "học viên",
+     "hoàn thành",
+     "các học phần trong chương trình đào tạo"
+    ],
+    [
+     "học viên",
+     "không đang trong",
+     "thời gian bị kỷ luật"
+    ]
+   ]
+  },
+  "205/QĐ-ĐHABC#Đ3": {
+   "entities": [
+    "QĐ 205/QĐ-ĐHABC",
+    "Quy định chế độ làm việc của giảng viên",
+    "Điều 3",
+    "Giảng viên",
+    "định mức giờ chuẩn",
+    "thi đua",
+    "năm học"
+   ],
+   "triples": [
+    [
+     "QĐ 205/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định chế độ làm việc của giảng viên"
+    ],
+    [
+     "Quy định chế độ làm việc của giảng viên",
+     "có",
+     "Điều 3"
+    ],
+    [
+     "Giảng viên",
+     "không hoàn thành",
+     "định mức giờ chuẩn"
+    ],
+    [
+     "Giảng viên",
+     "không được xét",
+     "thi đua"
+    ],
+    [
+     "thi đua",
+     "được xét theo",
+     "năm học"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ đại học#Đ2.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ đại học",
+    "QĐ 90/QĐ-ĐHABC",
+    "Điều 2",
+    "khóa luận tốt nghiệp",
+    "02 giảng viên",
+    "điểm khóa luận",
+    "trung bình cộng điểm của hai giảng viên chấm"
+   ],
+   "triples": [
+    [
+     "QĐ 90/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ đại học"
+    ],
+    [
+     "Quy chế đào tạo trình độ đại học",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "khóa luận tốt nghiệp",
+     "được chấm bởi",
+     "02 giảng viên"
+    ],
+    [
+     "điểm khóa luận",
+     "là",
+     "trung bình cộng điểm của hai giảng viên chấm"
+    ]
+   ]
+  },
+  "310/QĐ-ĐHABC#Đ2": {
+   "entities": [
+    "QĐ 310/QĐ-ĐHABC",
+    "quy định mức học phí năm học 2026 - 2027",
+    "Điều 2",
+    "trình độ thạc sĩ",
+    "1.800.000 đồng/tín chỉ",
+    "trình độ tiến sĩ",
+    "45.000.000 đồng/năm học",
+    "năm học 2026 - 2027"
+   ],
+   "triples": [
+    [
+     "QĐ 310/QĐ-ĐHABC",
+     "quy định",
+     "quy định mức học phí năm học 2026 - 2027"
+    ],
+    [
+     "QĐ 310/QĐ-ĐHABC",
+     "có",
+     "Điều 2"
+    ],
+    [
+     "trình độ thạc sĩ",
+     "có mức học phí",
+     "1.800.000 đồng/tín chỉ"
+    ],
+    [
+     "trình độ tiến sĩ",
+     "có mức học phí",
+     "45.000.000 đồng/năm học"
+    ],
+    [
+     "quy định mức học phí năm học 2026 - 2027",
+     "áp dụng cho",
+     "năm học 2026 - 2027"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ8.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 8",
+    "đề án tốt nghiệp",
+    "Khoản 2",
+    "hội đồng",
+    "5,5"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "ban hành kèm",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "gồm",
+     "Điều 8"
+    ],
+    [
+     "Điều 8",
+     "quy định về đánh giá",
+     "đề án tốt nghiệp"
+    ],
+    [
+     "đề án tốt nghiệp",
+     "được đánh giá bởi",
+     "hội đồng"
+    ],
+    [
+     "đề án tốt nghiệp",
+     "đạt yêu cầu khi điểm trung bình của các thành viên hội đồng từ",
+     "5,5"
+    ]
+   ]
+  },
+  "58/TB-ĐHABC#M4": {
+   "entities": [
+    "TB 58/TB-ĐHABC",
+    "Về việc tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027",
+    "tháng 01/2027",
+    "Mục 4",
+    "Hội đồng đánh giá",
+    "Quy chế đào tạo trình độ thạc sĩ hiện hành",
+    "lịch bảo vệ cụ thể",
+    "cổng thông tin đào tạo"
+   ],
+   "triples": [
+    [
+     "TB 58/TB-ĐHABC",
+     "tổ chức",
+     "đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027"
+    ],
+    [
+     "đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01/2027",
+     "diễn ra vào",
+     "tháng 01/2027"
+    ],
+    [
+     "TB 58/TB-ĐHABC",
+     "gồm",
+     "Mục 4"
+    ],
+    [
+     "Hội đồng đánh giá",
+     "được thành lập theo",
+     "Quy chế đào tạo trình độ thạc sĩ hiện hành"
+    ],
+    [
+     "lịch bảo vệ cụ thể",
+     "được công bố trên",
+     "cổng thông tin đào tạo"
+    ]
+   ]
+  },
+  "31/TB-ĐHABC#M2": {
+   "entities": [
+    "TB 31/TB-ĐHABC",
+    "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 6/2026",
+    "Mục 2",
+    "Phòng Đào tạo",
+    "hồ sơ đề nghị bảo vệ",
+    "đến hết ngày 22/5/2026"
+   ],
+   "triples": [
+    [
+     "TB 31/TB-ĐHABC",
+     "về việc",
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 6/2026"
+    ],
+    [
+     "TB 31/TB-ĐHABC",
+     "gồm",
+     "Mục 2"
+    ],
+    [
+     "Phòng Đào tạo",
+     "nhận",
+     "hồ sơ đề nghị bảo vệ"
+    ],
+    [
+     "hồ sơ đề nghị bảo vệ",
+     "có thời hạn tiếp nhận",
+     "đến hết ngày 22/5/2026"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ3.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 3",
+    "Đề án tốt nghiệp",
+    "học viên",
+    "định hướng ứng dụng",
+    "9 tín chỉ"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 3"
+    ],
+    [
+     "Điều 3",
+     "quy định về",
+     "Đề án tốt nghiệp"
+    ],
+    [
+     "học viên",
+     "theo",
+     "định hướng ứng dụng"
+    ],
+    [
+     "học viên",
+     "thực hiện",
+     "Đề án tốt nghiệp"
+    ],
+    [
+     "Đề án tốt nghiệp",
+     "có khối lượng",
+     "9 tín chỉ"
+    ]
+   ]
+  },
+  "31/TB-ĐHABC#M1": {
+   "entities": [
+    "TB 31/TB-ĐHABC",
+    "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 6/2026",
+    "Mục 1",
+    "thời gian bảo vệ dự kiến",
+    "từ ngày 15/6/2026 đến ngày 19/6/2026"
+   ],
+   "triples": [
+    [
+     "TB 31/TB-ĐHABC",
+     "về việc tổ chức",
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 6/2026"
+    ],
+    [
+     "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 6/2026",
+     "có thời gian bảo vệ dự kiến",
+     "từ ngày 15/6/2026 đến ngày 19/6/2026"
+    ],
+    [
+     "TB 31/TB-ĐHABC",
+     "gồm",
+     "Mục 1"
+    ]
+   ]
+  },
+  "100/QĐ-ĐHABC#Đ2": {
+   "entities": [
+    "QĐ 100/QĐ-ĐHABC",
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "Điều 2",
+    "01/9/2023",
+    "các khóa đào tạo thạc sĩ",
+    "Trường"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "ban hành",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "có hiệu lực từ",
+     "01/9/2023"
+    ],
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "áp dụng cho",
+     "các khóa đào tạo thạc sĩ"
+    ],
+    [
+     "các khóa đào tạo thạc sĩ",
+     "đang tổ chức tại",
+     "Trường"
+    ],
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "quy định tại",
+     "Điều 2"
+    ]
+   ]
+  },
+  "150/QĐ-ĐHABC#Đ3": {
+   "entities": [
+    "QĐ 150/QĐ-ĐHABC",
+    "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án",
+    "Điều 3",
+    "Đề án",
+    "tỷ lệ trùng lặp cho phép",
+    "10 ngày"
+   ],
+   "triples": [
+    [
+     "QĐ 150/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án"
+    ],
+    [
+     "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án",
+     "gồm",
+     "Điều 3"
+    ],
+    [
+     "Đề án",
+     "vượt",
+     "tỷ lệ trùng lặp cho phép"
+    ],
+    [
+     "Đề án",
+     "phải chỉnh sửa và kiểm tra lại sau tối thiểu",
+     "10 ngày"
+    ]
+   ]
+  },
+  "20/TB-ĐHABC#M1": {
+   "entities": [
+    "TB 20/TB-ĐHABC",
+    "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+    "Mục 1",
+    "Ngành tuyển sinh",
+    "Hệ thống thông tin",
+    "Khoa học máy tính",
+    "Quản trị kinh doanh",
+    "Kế toán"
+   ],
+   "triples": [
+    [
+     "TB 20/TB-ĐHABC",
+     "có tiêu đề",
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026"
+    ],
+    [
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+     "gồm",
+     "Mục 1"
+    ],
+    [
+     "Mục 1",
+     "có nội dung",
+     "Ngành tuyển sinh"
+    ],
+    [
+     "Ngành tuyển sinh",
+     "gồm",
+     "Hệ thống thông tin"
+    ],
+    [
+     "Ngành tuyển sinh",
+     "gồm",
+     "Khoa học máy tính"
+    ],
+    [
+     "Ngành tuyển sinh",
+     "gồm",
+     "Quản trị kinh doanh"
+    ],
+    [
+     "Ngành tuyển sinh",
+     "gồm",
+     "Kế toán"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ6.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 6",
+    "điều kiện bảo vệ đề án",
+    "Khoản 2",
+    "đề án",
+    "tỷ lệ trùng lặp",
+    "Trường"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "gồm",
+     "Điều 6"
+    ],
+    [
+     "Điều 6",
+     "quy định",
+     "điều kiện bảo vệ đề án"
+    ],
+    [
+     "Khoản 2",
+     "thuộc",
+     "Điều 6"
+    ],
+    [
+     "đề án",
+     "có",
+     "tỷ lệ trùng lặp"
+    ],
+    [
+     "tỷ lệ trùng lặp",
+     "không vượt quá",
+     "mức quy định của Trường"
+    ]
+   ]
+  },
+  "20/TB-ĐHABC#M5": {
+   "entities": [
+    "TB 20/TB-ĐHABC",
+    "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+    "Mục 5",
+    "lệ phí xét tuyển",
+    "500.000 đồng/hồ sơ",
+    "không hoàn lại"
+   ],
+   "triples": [
+    [
+     "TB 20/TB-ĐHABC",
+     "có nội dung",
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026"
+    ],
+    [
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+     "gồm",
+     "Mục 5"
+    ],
+    [
+     "lệ phí xét tuyển",
+     "có mức",
+     "500.000 đồng/hồ sơ"
+    ],
+    [
+     "lệ phí xét tuyển",
+     "không",
+     "hoàn lại"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ tiến sĩ#Đ3.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ tiến sĩ",
+    "QĐ 101/QĐ-ĐHABC",
+    "Điều 3",
+    "Hội đồng đánh giá luận án cấp Trường",
+    "Khoản 1",
+    "07 thành viên",
+    "03 phản biện"
+   ],
+   "triples": [
+    [
+     "QĐ 101/QĐ-ĐHABC",
+     "kèm",
+     "Quy chế đào tạo trình độ tiến sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ tiến sĩ",
+     "có",
+     "Điều 3"
+    ],
+    [
+     "Hội đồng đánh giá luận án cấp Trường",
+     "gồm",
+     "07 thành viên"
+    ],
+    [
+     "Hội đồng đánh giá luận án cấp Trường",
+     "trong đó có",
+     "03 phản biện"
+    ]
+   ]
+  },
+  "205/QĐ-ĐHABC#Đ1": {
+   "entities": [
+    "QĐ 205/QĐ-ĐHABC",
+    "Quy định chế độ làm việc của giảng viên",
+    "Điều 1",
+    "định mức giờ chuẩn giảng dạy",
+    "giảng viên",
+    "270 giờ chuẩn",
+    "một năm học"
+   ],
+   "triples": [
+    [
+     "QĐ 205/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định chế độ làm việc của giảng viên"
+    ],
+    [
+     "Quy định chế độ làm việc của giảng viên",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "định mức giờ chuẩn giảng dạy",
+     "áp dụng cho",
+     "giảng viên"
+    ],
+    [
+     "định mức giờ chuẩn giảng dạy của giảng viên",
+     "là",
+     "270 giờ chuẩn"
+    ],
+    [
+     "định mức giờ chuẩn giảng dạy của giảng viên",
+     "tính trong",
+     "một năm học"
+    ]
+   ]
+  },
+  "100/QĐ-ĐHABC#Đ3": {
+   "entities": [
+    "QĐ 100/QĐ-ĐHABC",
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "Điều 3",
+    "Trưởng phòng Đào tạo",
+    "trưởng các khoa đào tạo sau đại học",
+    "học viên cao học",
+    "Quyết định này"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "ban hành",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "có",
+     "Điều 3"
+    ],
+    [
+     "Trưởng phòng Đào tạo",
+     "chịu trách nhiệm thi hành",
+     "QĐ 100/QĐ-ĐHABC"
+    ],
+    [
+     "trưởng các khoa đào tạo sau đại học",
+     "chịu trách nhiệm thi hành",
+     "QĐ 100/QĐ-ĐHABC"
+    ],
+    [
+     "học viên cao học",
+     "chịu trách nhiệm thi hành",
+     "QĐ 100/QĐ-ĐHABC"
+    ]
+   ]
+  },
+  "310/QĐ-ĐHABC#Đ3.K1": {
+   "entities": [
+    "QĐ 310/QĐ-ĐHABC",
+    "quy định mức học phí năm học 2026 - 2027",
+    "Điều 3",
+    "Khoản 1",
+    "người học",
+    "học phí",
+    "30 ngày kể từ ngày bắt đầu học kỳ",
+    "năm học 2026 - 2027"
+   ],
+   "triples": [
+    [
+     "QĐ 310/QĐ-ĐHABC",
+     "ban hành",
+     "quy định mức học phí năm học 2026 - 2027"
+    ],
+    [
+     "quy định mức học phí năm học 2026 - 2027",
+     "gồm",
+     "Điều 3"
+    ],
+    [
+     "Điều 3",
+     "quy định thời hạn nộp",
+     "học phí"
+    ],
+    [
+     "người học",
+     "nộp",
+     "học phí"
+    ],
+    [
+     "người học",
+     "nộp học phí chậm nhất",
+     "30 ngày kể từ ngày bắt đầu học kỳ"
+    ],
+    [
+     "quy định mức học phí năm học 2026 - 2027",
+     "áp dụng cho",
+     "năm học 2026 - 2027"
+    ]
+   ]
+  },
+  "330/QĐ-ĐHABC#Đ2.K2": {
+   "entities": [
+    "QĐ 330/QĐ-ĐHABC",
+    "Quy định miễn, giảm học phí",
+    "Điều 2",
+    "Mức giảm học phí",
+    "Khoản 2",
+    "50% học phí",
+    "con của cán bộ, công chức",
+    "tai nạn lao động"
+   ],
+   "triples": [
+    [
+     "QĐ 330/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định miễn, giảm học phí"
+    ],
+    [
+     "Quy định miễn, giảm học phí",
+     "gồm",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "quy định về",
+     "Mức giảm học phí"
+    ],
+    [
+     "Khoản 2",
+     "quy định",
+     "50% học phí"
+    ],
+    [
+     "con của cán bộ, công chức bị tai nạn lao động",
+     "được giảm",
+     "50% học phí"
+    ],
+    [
+     "cán bộ, công chức",
+     "bị",
+     "tai nạn lao động"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ7.K1": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 7",
+    "Hội đồng đánh giá đề án tốt nghiệp",
+    "Khoản 1",
+    "05 thành viên",
+    "chủ tịch",
+    "thư ký",
+    "02 ủy viên phản biện",
+    "01 ủy viên"
+   ],
+   "triples": [
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "kèm theo",
+     "QĐ 100/QĐ-ĐHABC"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "gồm",
+     "Điều 7"
+    ],
+    [
+     "Điều 7",
+     "quy định về",
+     "Hội đồng đánh giá đề án tốt nghiệp"
+    ],
+    [
+     "Hội đồng đánh giá đề án tốt nghiệp",
+     "gồm",
+     "05 thành viên"
+    ],
+    [
+     "Hội đồng đánh giá đề án tốt nghiệp",
+     "gồm",
+     "chủ tịch"
+    ],
+    [
+     "Hội đồng đánh giá đề án tốt nghiệp",
+     "gồm",
+     "thư ký"
+    ],
+    [
+     "Hội đồng đánh giá đề án tốt nghiệp",
+     "gồm",
+     "02 ủy viên phản biện"
+    ],
+    [
+     "Hội đồng đánh giá đề án tốt nghiệp",
+     "gồm",
+     "01 ủy viên"
+    ]
+   ]
+  },
+  "150/QĐ-ĐHABC#Đ2.K2": {
+   "entities": [
+    "QĐ 150/QĐ-ĐHABC",
+    "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án",
+    "Điều 2",
+    "Khoản 2",
+    "luận án tiến sĩ",
+    "tỷ lệ trùng lặp",
+    "15%"
+   ],
+   "triples": [
+    [
+     "QĐ 150/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án"
+    ],
+    [
+     "Quy định về kiểm tra trùng lặp đề án, luận văn, luận án",
+     "gồm",
+     "Điều 2"
+    ],
+    [
+     "Khoản 2",
+     "thuộc",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "quy định tỷ lệ trùng lặp cho phép của",
+     "luận án tiến sĩ"
+    ],
+    [
+     "luận án tiến sĩ",
+     "có tỷ lệ trùng lặp không vượt quá",
+     "15%"
+    ]
+   ]
+  },
+  "100/QĐ-ĐHABC#Đ1": {
+   "entities": [
+    "QĐ 100/QĐ-ĐHABC",
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "Điều 1",
+    "Quyết định",
+    "Trường Đại học ABC"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "ban hành",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "thuộc",
+     "Trường Đại học ABC"
+    ],
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "có",
+     "Điều 1"
+    ]
+   ]
+  },
+  "180/QĐ-ĐHABC#Đ2.K1": {
+   "entities": [
+    "QĐ 180/QĐ-ĐHABC",
+    "Quy định về công tác cố vấn học tập",
+    "Điều 2",
+    "cố vấn học tập",
+    "Khoản 1",
+    "người học",
+    "kế hoạch học tập",
+    "đăng ký học phần"
+   ],
+   "triples": [
+    [
+     "QĐ 180/QĐ-ĐHABC",
+     "ban hành",
+     "Quy định về công tác cố vấn học tập"
+    ],
+    [
+     "Quy định về công tác cố vấn học tập",
+     "gồm",
+     "Điều 2"
+    ],
+    [
+     "Điều 2",
+     "quy định nhiệm vụ của",
+     "cố vấn học tập"
+    ],
+    [
+     "cố vấn học tập",
+     "tư vấn cho",
+     "người học"
+    ],
+    [
+     "cố vấn học tập",
+     "tư vấn lập",
+     "kế hoạch học tập"
+    ],
+    [
+     "cố vấn học tập",
+     "tư vấn đăng ký",
+     "đăng ký học phần"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ1.K2": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 1",
+    "Phạm vi điều chỉnh và đối tượng áp dụng",
+    "Khoản 2",
+    "học viên cao học",
+    "giảng viên",
+    "các đơn vị tham gia đào tạo trình độ thạc sĩ",
+    "Trường"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "ban hành kèm",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "Điều 1",
+     "có nội dung",
+     "Phạm vi điều chỉnh và đối tượng áp dụng"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "áp dụng đối với",
+     "học viên cao học"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "áp dụng đối với",
+     "giảng viên"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "áp dụng đối với",
+     "các đơn vị tham gia đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "các đơn vị tham gia đào tạo trình độ thạc sĩ",
+     "thuộc",
+     "Trường"
+    ]
+   ]
+  },
+  "20/TB-ĐHABC#M4": {
+   "entities": [
+    "TB 20/TB-ĐHABC",
+    "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+    "Mục 4",
+    "Hồ sơ dự tuyển",
+    "Phòng Đào tạo",
+    "từ ngày 15/3/2026 đến hết ngày 15/5/2026"
+   ],
+   "triples": [
+    [
+     "TB 20/TB-ĐHABC",
+     "thông báo về",
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026"
+    ],
+    [
+     "Tuyển sinh trình độ thạc sĩ đợt 1 năm 2026",
+     "có",
+     "Mục 4"
+    ],
+    [
+     "Hồ sơ dự tuyển",
+     "nộp trực tiếp tại",
+     "Phòng Đào tạo"
+    ],
+    [
+     "Hồ sơ dự tuyển",
+     "có thời hạn nộp",
+     "từ ngày 15/3/2026 đến hết ngày 15/5/2026"
+    ]
+   ]
+  },
+  "44/TB-ĐHABC#M3": {
+   "entities": [
+    "TB 44/TB-ĐHABC",
+    "tổ chức kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026",
+    "Mục 3",
+    "Lệ phí dự thi",
+    "1.500.000 đồng/thí sinh",
+    "hạn đăng ký dự thi",
+    "25/11/2026"
+   ],
+   "triples": [
+    [
+     "TB 44/TB-ĐHABC",
+     "về việc tổ chức",
+     "tổ chức kỳ thi đánh giá năng lực ngoại ngữ tháng 12/2026"
+    ],
+    [
+     "TB 44/TB-ĐHABC",
+     "có",
+     "Mục 3"
+    ],
+    [
+     "Lệ phí dự thi",
+     "là",
+     "1.500.000 đồng/thí sinh"
+    ],
+    [
+     "hạn đăng ký dự thi",
+     "đến hết ngày",
+     "25/11/2026"
+    ]
+   ]
+  },
+  "412/ĐHABC-ĐT#M1": {
+   "entities": [
+    "CV 412/ĐHABC-ĐT",
+    "Về việc gia hạn thời gian học tập đối với học viên cao học",
+    "Mục 1",
+    "học viên cao học",
+    "gia hạn thời gian học tập",
+    "Phòng Đào tạo",
+    "trước khi hết thời gian đào tạo tối đa ít nhất 60 ngày"
+   ],
+   "triples": [
+    [
+     "CV 412/ĐHABC-ĐT",
+     "về việc",
+     "Về việc gia hạn thời gian học tập đối với học viên cao học"
+    ],
+    [
+     "Về việc gia hạn thời gian học tập đối với học viên cao học",
+     "quy định đối tượng",
+     "học viên cao học"
+    ],
+    [
+     "học viên cao học",
+     "có nhu cầu",
+     "gia hạn thời gian học tập"
+    ],
+    [
+     "học viên cao học",
+     "nộp đơn tại",
+     "Phòng Đào tạo"
+    ],
+    [
+     "học viên cao học",
+     "nộp đơn trước thời hạn",
+     "trước khi hết thời gian đào tạo tối đa ít nhất 60 ngày"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ7.K3": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 7",
+    "Hội đồng đánh giá đề án tốt nghiệp",
+    "Khoản 3",
+    "Người hướng dẫn",
+    "thành viên hội đồng"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "gồm",
+     "Điều 7"
+    ],
+    [
+     "Điều 7",
+     "quy định về",
+     "Hội đồng đánh giá đề án tốt nghiệp"
+    ],
+    [
+     "Khoản 3",
+     "thuộc",
+     "Điều 7"
+    ],
+    [
+     "Người hướng dẫn",
+     "không được là",
+     "thành viên hội đồng"
+    ]
+   ]
+  },
+  "Quy chế|Đào tạo trình độ thạc sĩ#Đ1.K3": {
+   "entities": [
+    "Quy chế đào tạo trình độ thạc sĩ",
+    "QĐ 100/QĐ-ĐHABC",
+    "Điều 1",
+    "Phạm vi điều chỉnh và đối tượng áp dụng",
+    "Khoản 3",
+    "Ngày bảo vệ đề án",
+    "hội đồng",
+    "đề án"
+   ],
+   "triples": [
+    [
+     "QĐ 100/QĐ-ĐHABC",
+     "kèm theo",
+     "Quy chế đào tạo trình độ thạc sĩ"
+    ],
+    [
+     "Quy chế đào tạo trình độ thạc sĩ",
+     "có",
+     "Điều 1"
+    ],
+    [
+     "Điều 1",
+     "có nội dung",
+     "Phạm vi điều chỉnh và đối tượng áp dụng"
+    ],
+    [
+     "Khoản 3",
+     "quy định",
+     "Ngày bảo vệ đề án"
+    ],
+    [
+     "Ngày bảo vệ đề án",
+     "là ngày",
+     "hội đồng họp đánh giá đề án"
+    ],
+    [
+     "hội đồng",
+     "họp đánh giá",
+     "đề án"
+    ]
+   ]
+  }
+ },
+ "stats": {
+  "passages": 96,
+  "phrases": 336,
+  "documents": 21,
+  "facts": 437,
+  "edges": 1366,
+  "synonym_edges": 172,
+  "edge_kinds": {
+   "fact": 399,
+   "fact+synonym": 2,
+   "passage": 684,
+   "synonym": 172,
+   "thuoc_van_ban": 96,
+   "can_cu": 4,
+   "ban_hanh": 1,
+   "dan_chieu": 4,
+   "sua_doi": 4
+  },
+  "library_info": {
+   "num_phrase_nodes": 336,
+   "num_passage_nodes": 96,
+   "num_total_nodes": 432,
+   "num_extracted_triples": 437,
+   "num_triples_with_passage_node": 786,
+   "num_synonymy_triples": 174,
+   "num_total_triples": 1366
+  }
+ },
+ "core_graph": {
+  "nodes": [
+   {
+    "type": "cụm từ",
+    "label": "01 4 2025",
+    "name": "entity-19cbf0ed868e9f2fc59bdd398dde1748",
+    "id": 2,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "01 9 2023",
+    "name": "entity-4bc0e82decf7172df03eaa695fc56cb6",
+    "id": 4,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "01 người",
+    "name": "entity-74c07e4bb982246aa7085cd9c9e204ba",
+    "id": 7,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "01 người nhận xét độc lập",
+    "name": "entity-fa4d5893455ddd4cb6dd21d659738547",
+    "id": 8,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "01 thành viên ngoài trường",
+    "name": "entity-4e8ea6f557e83f2d0d3ad8ed74abaeae",
+    "id": 9,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "01 ủy viên",
+    "name": "entity-0a40c8226dd44dbccc61ef1d682d8f01",
+    "id": 10,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "02 người hướng dẫn",
+    "name": "entity-b5942855378888a416054082892d2424",
+    "id": 13,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "02 năm",
+    "name": "entity-3d79abab0475bdb5bbb7d79de026fe81",
+    "id": 14,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "02 ủy viên phản biện",
+    "name": "entity-5ba18ac40ff556f7505ddd1325693a75",
+    "id": 16,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "03 người",
+    "name": "entity-8925a4df21cf4c8eb7dd7d9d1577d7e8",
+    "id": 17,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "05 thành viên",
+    "name": "entity-906796222754e08ffd5d4fa8a1117019",
+    "id": 20,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "15 ngày làm việc",
+    "name": "entity-728443e776fca3d87a49ee57c5bb88e8",
+    "id": 34,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "18 01 2027",
+    "name": "entity-e167bd1fab9d4dc116b0c59e38148efe",
+    "id": 36,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "2 năm học",
+    "name": "entity-b0c19893226536342fc70a18be4e23ca",
+    "id": 39,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "22 01 2027",
+    "name": "entity-c8c4bb499996c14e8f3a7d4cc5f84a9e",
+    "id": 42,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "30 ngày trước ngày bảo vệ",
+    "name": "entity-9561e0b7e2b4493b2e1733d24b1771bf",
+    "id": 51,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "4 năm",
+    "name": "entity-93d357a980265025340f7942d16bef7c",
+    "id": 53,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "5 5",
+    "name": "entity-3531df85e1852eec136d962a12eada34",
+    "id": 56,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "9 tín chỉ",
+    "name": "entity-8e9f901d9e9db37c6c73d2408ecfd9aa",
+    "id": 61,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "bản đề án tốt nghiệp",
+    "name": "entity-b51997aa136e6dd3bcbdbf46d50d1a39",
+    "id": 65,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "bảo vệ đề án",
+    "name": "entity-4415996cabf631e1a990f2b222d9158a",
+    "id": 66,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "bậc 4",
+    "name": "entity-fadebad3c52665eeece41f89bc16abcc",
+    "id": 67,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "bằng tiến sĩ",
+    "name": "entity-c357a6b4cd3a6cbac107c05b5525c239",
+    "id": 68,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "bằng đại học ngành ngôn ngữ nước ngoài",
+    "name": "entity-2d7ccdb5ebd51ccc71fa15f07bdc9a16",
+    "id": 69,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "chuyên ngành phù hợp",
+    "name": "entity-d1c8acb56938be48167afa293f528c56",
+    "id": 70,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "chuẩn ngoại ngữ đầu ra",
+    "name": "entity-6139efb4fc96a2211cb9c6f81c5a7ae0",
+    "id": 73,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "chuẩn năng lực ngoại ngữ đầu ra",
+    "name": "entity-3062fc4819ac7fc1314e993bfdbc8b0e",
+    "id": 74,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "chuẩn năng lực ngoại ngữ đầu ra đối với học viên trình độ thạc sĩ",
+    "name": "entity-b3e2775a9e53b4ce97021c5f6d05baaf",
+    "id": 75,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "chương trình thạc sĩ",
+    "name": "entity-9872da7454d231a41dc8525dc71fc45a",
+    "id": 76,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "chương trình đào tạo",
+    "name": "entity-8b3b8bbd5e8792227e3860ef3496d160",
+    "id": 77,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "chủ tịch",
+    "name": "entity-d21bd7c73e005c2a1524cc9911c47225",
+    "id": 78,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "chứng chỉ",
+    "name": "entity-95be4120892fbdade40e0a0db9e6a561",
+    "id": 79,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "các chứng chỉ quốc tế",
+    "name": "entity-bd635fe789a093d13ce95f78a6ffdd4a",
+    "id": 84,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "các học phần trong chương trình đào tạo",
+    "name": "entity-201543665ffba5146a36bf32a1383448",
+    "id": 85,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "các khóa đào tạo thạc sĩ",
+    "name": "entity-65f837a3f11c2dfd783ade98fab05c3c",
+    "id": 86,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "các khóa đã hoàn thành chương trình đào tạo",
+    "name": "entity-a37126427e54ff3d5784335a42a9cddf",
+    "id": 87,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "các đơn vị liên quan",
+    "name": "entity-79bd0c93cb85b83aebafe6f1b5da6e03",
+    "id": 89,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "các đơn vị tham gia đào tạo trình độ thạc sĩ",
+    "name": "entity-5b31aea6aded0b651a03937e413de172",
+    "id": 90,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "công nhận tốt nghiệp",
+    "name": "entity-d29e7f4388d54ad4a8dfe53671a0c6a2",
+    "id": 93,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "cơ sở chính của trường",
+    "name": "entity-259188803838746e79d64c042cef5241",
+    "id": 94,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "cấp bằng thạc sĩ",
+    "name": "entity-fc304f11a50d698d3958c44a3d33d24d",
+    "id": 95,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "cổng thông tin đào tạo",
+    "name": "entity-c331188599388f9ba99dea9168db36cd",
+    "id": 97,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "giảng viên",
+    "name": "entity-0b9b38439cecd42086954bbcc6ce76fa",
+    "id": 103,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "giảng viên cơ hữu",
+    "name": "entity-61592ac9bffd389cbf99d769c234e0c6",
+    "id": 104,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hd 12 hd đhabc",
+    "name": "entity-0becd7e2ebe7b929358c293c458f130e",
+    "id": 107,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hiệu trưởng",
+    "name": "entity-dae0b141dc1497a64fd7c72f0baeadfb",
+    "id": 108,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hướng dẫn số 12 hd đhabc",
+    "name": "entity-8111356fd613bb1ab563eb62916c5e20",
+    "id": 114,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "học viên",
+    "name": "entity-16c1407699c0a45c76e6d93c92c64708",
+    "id": 124,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "học viên cao học",
+    "name": "entity-41568226a7bf724ebcb4baa68d2c9486",
+    "id": 125,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "học viên chưa đạt chuẩn ngoại ngữ đầu ra",
+    "name": "entity-ee6ba3851f383d7adb21b1dfb4cc247a",
+    "id": 126,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "học viên trình độ thạc sĩ",
+    "name": "entity-5714e682d36a12f802683a0e4f13849d",
+    "id": 127,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hồ sơ",
+    "name": "entity-060fb5f00fa8db50b624146a3a55cb40",
+    "id": 129,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hồ sơ đề nghị bảo vệ",
+    "name": "entity-9efd474d8812bd1473588eb6929ed428",
+    "id": 131,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hồ sơ đề nghị bảo vệ đề án tốt nghiệp",
+    "name": "entity-a35a1cf7b1ddcaca80c9c5656a18eae1",
+    "id": 133,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hồ sơ đề nghị đánh giá đề án",
+    "name": "entity-4c82e725b5015058393c325817a49af7",
+    "id": 135,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hội đồng",
+    "name": "entity-32acc0fd82bd3a5d5340b7c5485c03f1",
+    "id": 136,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hội đồng chấm",
+    "name": "entity-3552b2987c8ef310b4dc4a24c98e71b4",
+    "id": 137,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hội đồng đánh giá",
+    "name": "entity-30b3cd818443772ee401877682668a34",
+    "id": 138,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hội đồng đánh giá đề án tốt nghiệp",
+    "name": "entity-eaa6989d9015bd2e6be044239b4ae032",
+    "id": 140,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "ielts từ 5 5 trở lên",
+    "name": "entity-322ad39f39ddfd8dcf7fc8f817cade08",
+    "id": 142,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "khoản 1",
+    "name": "entity-7a49ab56f731a15def0cf744333e49bf",
+    "id": 146,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "khoản 1 điều 7",
+    "name": "entity-3198284eb205c2b3390b2492abc3300d",
+    "id": 147,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "khoản 2",
+    "name": "entity-cc0799052d66330eea76b4e63a41620f",
+    "id": 148,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "khoản 2 điều 5",
+    "name": "entity-dc6f7bf893ffebc1a78479d5bdcacb24",
+    "id": 149,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "khoản 3",
+    "name": "entity-91748dd9340c66aa63e1bca2c09726cf",
+    "id": 150,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "khung năng lực ngoại ngữ 6 bậc dùng cho việt nam",
+    "name": "entity-227be2c02d0c84ab695935db6a82b41b",
+    "id": 152,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "kết quả kiểm tra trùng lặp",
+    "name": "entity-f8e5740178608ba8428424c2424451fa",
+    "id": 158,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "lĩnh vực chuyên môn",
+    "name": "entity-8e1f27cca39235368819a54ae7bdb769",
+    "id": 165,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "lịch bảo vệ cụ thể",
+    "name": "entity-b026b12a029c5877c2a76c40bf5c3ceb",
+    "id": 169,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "một chữ số thập phân",
+    "name": "entity-0431c2e818f0122d0764268f67190135",
+    "id": 175,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "mục 1",
+    "name": "entity-d4d0cde07b1ed69e07db5ff7f02b8cc0",
+    "id": 177,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "mục 2",
+    "name": "entity-b9772c95a210e319c5b593aa95ffb791",
+    "id": 178,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "mục 3",
+    "name": "entity-980408be63888a6b9fb69a8405bd228b",
+    "id": 179,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "mục 4",
+    "name": "entity-74c4d2640873199a305551dbfeb3fa2b",
+    "id": 180,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "mức quy định của trường",
+    "name": "entity-61df341b7bb77b970385ca35a6aceb58",
+    "id": 187,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "ngày họp hội đồng",
+    "name": "entity-09d86fe2572a98bbd05c2c8279ab19d9",
+    "id": 196,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "ngày nộp hồ sơ đề nghị bảo vệ",
+    "name": "entity-d61ca2b95ddc50d7151aac257225a2dc",
+    "id": 197,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "người hướng dẫn",
+    "name": "entity-e47899556e3a741b06475a366633882d",
+    "id": 199,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "người hướng dẫn đề án",
+    "name": "entity-06a9109ecb205285e9f1e159f332d7d9",
+    "id": 200,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "nhận xét của người hướng dẫn",
+    "name": "entity-159c837959d1fd14e3d62a9963301204",
+    "id": 205,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "phòng đào tạo",
+    "name": "entity-619e042dbbe0133a38d77c915ab31ee9",
+    "id": 210,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "phạm vi điều chỉnh và đối tượng áp dụng",
+    "name": "entity-5b1d20cda9cc97909e56d8d9fd58012c",
+    "id": 212,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "quy chế đào tạo trình độ thạc sĩ",
+    "name": "entity-b22abad3fa9209b0fdc48f35cb908877",
+    "id": 216,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "quy chế đào tạo trình độ thạc sĩ hiện hành",
+    "name": "entity-6589f13ae7ad15c11267a5d508b4fa0c",
+    "id": 217,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "quyết định công nhận học viên",
+    "name": "entity-e9b7e26ebe0e18f39a4d01860a2a82cf",
+    "id": 227,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "quyết định số 100 qđ đhabc",
+    "name": "entity-8ff979cf4871aa663fcc89a3c06b43e3",
+    "id": 228,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "quyết định thành lập hội đồng",
+    "name": "entity-9e0e3eb92838eda912c5712af3dc6bb8",
+    "id": 229,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "qđ 100 qđ đhabc",
+    "name": "entity-14a01a2c03b198d73661cdd1e2c836d1",
+    "id": 231,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "qđ 245 qđ đhabc",
+    "name": "entity-9a72f7e1b59c22361a18a548648780a7",
+    "id": 237,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "tb 58 tb đhabc",
+    "name": "entity-e0bb98a6ecd1bec22216c6524a90e866",
+    "id": 248,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "thang điểm 10",
+    "name": "entity-93643cf9975db10621e791cd7219f9b9",
+    "id": 249,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "thành viên hội đồng",
+    "name": "entity-c1be9870ca4ee7c81d50977d1ef9147d",
+    "id": 252,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "tháng 01 2027",
+    "name": "entity-87607bb8d4a32f5a904494a0cd6dd232",
+    "id": 253,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "thư ký",
+    "name": "entity-bafe8646c74377d99540323bc36c1511",
+    "id": 256,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "thư ký kiêm ủy viên",
+    "name": "entity-cfa626a9cb1272b94758e91fabb1c2cd",
+    "id": 257,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "thời gian bị kỷ luật",
+    "name": "entity-f626006053794ca8a3ea85dab415e3d6",
+    "id": 259,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "thời gian đào tạo",
+    "name": "entity-6254f89dcf43279c803f37c8823f8789",
+    "id": 261,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "thời hạn nộp hồ sơ",
+    "name": "entity-e44049d68a4fdc20b8697110845c66b1",
+    "id": 265,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "tiếng nước ngoài",
+    "name": "entity-5977cf5e05965ebad5102af8b7bca949",
+    "id": 266,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "toefl ibt từ 46 trở lên",
+    "name": "entity-8f3fc24e589693bde676778d79a11c28",
+    "id": 267,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "toeic 4 kỹ năng từ 785 trở lên",
+    "name": "entity-e817b9deed3a9c590705fd23d6af266c",
+    "id": 268,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "trình độ thạc sĩ",
+    "name": "entity-9ff176a0c4111e1f1ea968356303b5b7",
+    "id": 273,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "trước khi bảo vệ đề án",
+    "name": "entity-93e675d2c1a2003e6735e5ce417189b6",
+    "id": 276,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "trường",
+    "name": "entity-b746d89313e415e4a6032dc352773487",
+    "id": 278,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "trường đại học abc",
+    "name": "entity-cd7638f9e04f5cd39423df2a100720ff",
+    "id": 279,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "trưởng các khoa đào tạo sau đại học",
+    "name": "entity-9809efda30e0027a582f6c670a189e04",
+    "id": 280,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "trưởng phòng đào tạo",
+    "name": "entity-97866a8c29e1f109000aaf2deefeb68d",
+    "id": 281,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "tổ chức đào tạo",
+    "name": "entity-bbac55ff88bdb5af54c7f15bb0ef6f63",
+    "id": 288,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "tổ chức đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01 2027",
+    "name": "entity-edbb0441ea78fe5752d9d331539a96da",
+    "id": 289,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "tỷ lệ trùng lặp",
+    "name": "entity-36858069a14cf27ce0e15c75abf297b8",
+    "id": 295,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "vấn đề thực tiễn",
+    "name": "entity-6ad8a5145ca0fe3534a2ca42b640d1e2",
+    "id": 297,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều 1",
+    "name": "entity-df0be04a56d730ed986646ee91ca6139",
+    "id": 302,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều 2",
+    "name": "entity-9da43a5287760c595d14011dceb5b378",
+    "id": 303,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều 3",
+    "name": "entity-caba6655bbe9cfe0ae5bf261583fcb7d",
+    "id": 304,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều 4",
+    "name": "entity-b8549d4e124380eb7739a5c90d2b841c",
+    "id": 305,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều 5",
+    "name": "entity-5539f59834a1dd65c04c61d482f35a0e",
+    "id": 306,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều 6",
+    "name": "entity-7df687fc408c5332b35d6b1161c93619",
+    "id": 307,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều 7",
+    "name": "entity-6a883537b1b4deb1457520494a103e36",
+    "id": 308,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều 8",
+    "name": "entity-5db125605526c7c64950cf47f3504367",
+    "id": 309,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều 9",
+    "name": "entity-fcb79e8e202f296f1f68626a69b341ae",
+    "id": 310,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "điều kiện bảo vệ đề án",
+    "name": "entity-013fa3a141e293ce176ec47698c57f8a",
+    "id": 311,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "đánh giá đề án tốt nghiệp",
+    "name": "entity-deb82ab9d86abeb4cbeb31e42ceb5ea9",
+    "id": 318,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "đơn đề nghị bảo vệ",
+    "name": "entity-9069b7955efb1b1c00c70abefdcdf955",
+    "id": 321,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "đề tài",
+    "name": "entity-aa4752c1d2f495a1f75e37d42b8c4f76",
+    "id": 323,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "đề án",
+    "name": "entity-9845d1c5d88daf553b4c8f1961b57d7d",
+    "id": 324,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "đề án tốt nghiệp",
+    "name": "entity-74bb2a9f4a54ed4d2310b9b938b1c894",
+    "id": 325,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "định hướng ứng dụng",
+    "name": "entity-04ede742585e4a4b1eb9e242f63d3a7c",
+    "id": 328,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "đợt bảo vệ đề án tốt nghiệp thạc sĩ tháng 01 2027",
+    "name": "entity-1fe4a833984253f0bad9a3f87b4ffcb2",
+    "id": 333,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "QĐ 100/QĐ-ĐHABC, Điều 1",
+    "name": "chunk-2c95ff9db200c3d5578172d477359f73",
+    "pid": "100/QĐ-ĐHABC#Đ1",
+    "id": 334,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "QĐ 100/QĐ-ĐHABC, Điều 2",
+    "name": "chunk-72aa976e08f919fc552822d9f00337d4",
+    "pid": "100/QĐ-ĐHABC#Đ2",
+    "id": 335,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "QĐ 100/QĐ-ĐHABC, Điều 3",
+    "name": "chunk-61263d8379cd42ba8102ca793890aa18",
+    "pid": "100/QĐ-ĐHABC#Đ3",
+    "id": 336,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 1, Khoản 1",
+    "name": "chunk-c882cb023a3d2f03db8fc0b55c2e6932",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ1.K1",
+    "id": 337,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 1, Khoản 2",
+    "name": "chunk-ea129dce57447a2d369a6a9e219998dd",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ1.K2",
+    "id": 338,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 2, Khoản 1",
+    "name": "chunk-d65550e880fbcc574dfbe56756853382",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ2.K1",
+    "id": 339,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 2, Khoản 2",
+    "name": "chunk-ed95d28889c2523f62a9fa9536ee7738",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ2.K2",
+    "id": 340,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 3, Khoản 1",
+    "name": "chunk-b7c67119f450b0c13bb8f7ca4d0eb140",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ3.K1",
+    "id": 341,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 3, Khoản 2",
+    "name": "chunk-926af894de1d7e267e0f951eeaff82fd",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ3.K2",
+    "id": 342,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 4, Khoản 1",
+    "name": "chunk-8737c87bc495e3b6cf780b95b23dea54",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ4.K1",
+    "id": 343,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 4, Khoản 2",
+    "name": "chunk-41c42edbf7fb688c09ccf658e035dc04",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ4.K2",
+    "id": 344,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 5, Khoản 1",
+    "name": "chunk-a58d32b2fb086b6ac81a2fba121f5641",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ5.K1",
+    "id": 345,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 5, Khoản 2",
+    "name": "chunk-a56221925aac46bfa3c0c1faf2aab6c2",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ5.K2",
+    "id": 346,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 5, Khoản 3",
+    "name": "chunk-373cd98b85823285594f87a6db160fa2",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ5.K3",
+    "id": 347,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 6, Khoản 1",
+    "name": "chunk-0d3ad68b1b45c2aca31a97141347af18",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ6.K1",
+    "id": 348,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 6, Khoản 2",
+    "name": "chunk-e9c080a56913c01cf2efce79500d8268",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ6.K2",
+    "id": 349,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 7, Khoản 1",
+    "name": "chunk-77934161dac5d9c8d47ab3e68dc5a025",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ7.K1",
+    "id": 350,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 7, Khoản 2",
+    "name": "chunk-c6f67c51e4fefe9a6d9fe24c8fdfe5ed",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ7.K2",
+    "id": 351,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 7, Khoản 3",
+    "name": "chunk-4f024ba62b7310d15dd7c405bfbaf316",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ7.K3",
+    "id": 352,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 8, Khoản 1",
+    "name": "chunk-9a7e43148eb0818d2335d6ce95c63a3d",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ8.K1",
+    "id": 353,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 8, Khoản 2",
+    "name": "chunk-77598f511cccfe26e22f7be31993b1ce",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ8.K2",
+    "id": 354,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 9, Khoản 1",
+    "name": "chunk-6d7bc6bd2ae46c0dcce04589df12d096",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ9.K1",
+    "id": 355,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 9, Khoản 2",
+    "name": "chunk-97171f5f0d8590b94081ebb80531ae05",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ9.K2",
+    "id": 356,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "QĐ 245/QĐ-ĐHABC, Điều 1, Khoản 1",
+    "name": "chunk-1105e9e3a5a4ef104283e49f9503ad38",
+    "pid": "245/QĐ-ĐHABC#Đ1.K1",
+    "id": 357,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "QĐ 245/QĐ-ĐHABC, Điều 1, Khoản 2",
+    "name": "chunk-572ffccf08da35a83122d46c1e39e5c9",
+    "pid": "245/QĐ-ĐHABC#Đ1.K2",
+    "id": 358,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "QĐ 245/QĐ-ĐHABC, Điều 2",
+    "name": "chunk-0fe41aad2b0d22fbae15d2050c72279c",
+    "pid": "245/QĐ-ĐHABC#Đ2",
+    "id": 359,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "QĐ 245/QĐ-ĐHABC, Điều 3",
+    "name": "chunk-a73fdfd7d97ac0968b40c519c05eb953",
+    "pid": "245/QĐ-ĐHABC#Đ3",
+    "id": 360,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "TB 58/TB-ĐHABC, Mục 1",
+    "name": "chunk-3449bae9b8f64033ac09157cd788865f",
+    "pid": "58/TB-ĐHABC#M1",
+    "id": 361,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "TB 58/TB-ĐHABC, Mục 2",
+    "name": "chunk-cf5de33cde8f850540fd8e69143c8bc1",
+    "pid": "58/TB-ĐHABC#M2",
+    "id": 362,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "TB 58/TB-ĐHABC, Mục 3",
+    "name": "chunk-9a0986cf3d43a53a606315752eaf2fff",
+    "pid": "58/TB-ĐHABC#M3",
+    "id": 363,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "TB 58/TB-ĐHABC, Mục 4",
+    "name": "chunk-60a8c110c397b4d7f151ec1a4e95b9ab",
+    "pid": "58/TB-ĐHABC#M4",
+    "id": 364,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "HD 12/HD-ĐHABC, Mục 1",
+    "name": "chunk-34ed40e18384a211e011891264d8cf49",
+    "pid": "12/HD-ĐHABC#M1",
+    "id": 365,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "HD 12/HD-ĐHABC, Mục 2",
+    "name": "chunk-742a4ace3ea263d4597775b32da91635",
+    "pid": "12/HD-ĐHABC#M2",
+    "id": 366,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "HD 12/HD-ĐHABC, Mục 3",
+    "name": "chunk-7cf0ed8866befa4c1e88990e03ee332a",
+    "pid": "12/HD-ĐHABC#M3",
+    "id": 367,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "HD 12/HD-ĐHABC, Mục 4",
+    "name": "chunk-f6390e02bdd17a38a4f245346c66194a",
+    "pid": "12/HD-ĐHABC#M4",
+    "id": 368,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "hội đồng họp đánh giá đề án",
+    "name": "entity-381b945dec3165ed055ebb6fd3165eb3",
+    "id": 429,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "cụm từ",
+    "label": "ngày bảo vệ đề án",
+    "name": "entity-9cdeab2dd969a5c2ab67329469de02ff",
+    "id": 430,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "đoạn văn",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC), Điều 1, Khoản 3",
+    "name": "chunk-0423ca9268f1854efb4f711a35f7dcd6",
+    "pid": "Quy chế|Đào tạo trình độ thạc sĩ#Đ1.K3",
+    "id": 431,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "văn bản",
+    "label": "QĐ 100/QĐ-ĐHABC",
+    "name": "doc::100/QĐ-ĐHABC",
+    "id": 432,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "văn bản",
+    "label": "Quy chế đào tạo trình độ thạc sĩ (kèm QĐ 100/QĐ-ĐHABC)",
+    "name": "doc::Quy chế|Đào tạo trình độ thạc sĩ",
+    "id": 433,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "văn bản",
+    "label": "QĐ 245/QĐ-ĐHABC",
+    "name": "doc::245/QĐ-ĐHABC",
+    "id": 434,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "văn bản",
+    "label": "TB 58/TB-ĐHABC",
+    "name": "doc::58/TB-ĐHABC",
+    "id": 435,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "văn bản",
+    "label": "HD 12/HD-ĐHABC",
+    "name": "doc::12/HD-ĐHABC",
+    "id": 436,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "văn bản",
+    "label": "Thông tư 23/2021/TT-BGDĐT",
+    "name": "doc::23/2021/TT-BGDĐT",
+    "id": 451,
+    "seed": 0.0,
+    "ppr": 0.0
+   },
+   {
+    "type": "văn bản",
+    "label": "Nghị quyết 08/NQ-HĐT",
+    "name": "doc::08/NQ-HĐT",
+    "id": 452,
+    "seed": 0.0,
+    "ppr": 0.0
+   }
+  ],
+  "edges": [
+   {
+    "s": 216,
+    "t": 231,
+    "w": 24.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 279,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 231,
+    "t": 302,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 4,
+    "t": 231,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 86,
+    "t": 231,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 86,
+    "t": 278,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 231,
+    "t": 303,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 231,
+    "t": 304,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 231,
+    "t": 281,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 231,
+    "t": 280,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 125,
+    "t": 231,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 302,
+    "w": 3.0,
+    "kind": "fact"
+   },
+   {
+    "s": 77,
+    "t": 302,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 288,
+    "t": 302,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 302,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 95,
+    "t": 302,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 212,
+    "t": 302,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 125,
+    "t": 216,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 103,
+    "t": 216,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 90,
+    "t": 216,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 90,
+    "t": 278,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 303,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 39,
+    "t": 76,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 261,
+    "t": 303,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 53,
+    "t": 261,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 227,
+    "t": 261,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 227,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 304,
+    "w": 3.0,
+    "kind": "fact"
+   },
+   {
+    "s": 304,
+    "t": 325,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 328,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 61,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 297,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 165,
+    "t": 297,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 278,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 305,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 200,
+    "t": 305,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 13,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 7,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 7,
+    "t": 104,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 104,
+    "t": 278,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 68,
+    "t": 199,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 68,
+    "t": 70,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 70,
+    "t": 323,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 323,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 306,
+    "w": 3.0,
+    "kind": "fact"
+   },
+   {
+    "s": 133,
+    "t": 306,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 133,
+    "t": 321,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 65,
+    "t": 133,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 133,
+    "t": 205,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 133,
+    "t": 158,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 133,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 133,
+    "t": 210,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 51,
+    "t": 133,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 129,
+    "t": 210,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 108,
+    "t": 210,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 108,
+    "t": 229,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 136,
+    "t": 229,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 307,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 307,
+    "t": 311,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 85,
+    "t": 124,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 259,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 148,
+    "t": 307,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 295,
+    "t": 324,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 187,
+    "t": 295,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 308,
+    "w": 3.0,
+    "kind": "fact"
+   },
+   {
+    "s": 140,
+    "t": 308,
+    "w": 3.0,
+    "kind": "fact"
+   },
+   {
+    "s": 20,
+    "t": 140,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 78,
+    "t": 140,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 140,
+    "t": 256,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 16,
+    "t": 140,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 10,
+    "t": 140,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 68,
+    "t": 252,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 9,
+    "t": 140,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 150,
+    "t": 308,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 199,
+    "t": 252,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 309,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 309,
+    "t": 318,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 249,
+    "t": 324,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 175,
+    "t": 324,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 309,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 136,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 56,
+    "t": 325,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 310,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 73,
+    "t": 310,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 74,
+    "t": 124,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 276,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 74,
+    "t": 114,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 73,
+    "t": 124,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 93,
+    "t": 126,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 237,
+    "w": 4.0,
+    "kind": "fact"
+   },
+   {
+    "s": 216,
+    "t": 228,
+    "w": 4.0,
+    "kind": "fact"
+   },
+   {
+    "s": 237,
+    "t": 302,
+    "w": 2.0,
+    "kind": "fact"
+   },
+   {
+    "s": 146,
+    "t": 302,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 146,
+    "t": 149,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 135,
+    "t": 210,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 34,
+    "t": 210,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 34,
+    "t": 196,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 136,
+    "t": 196,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 147,
+    "t": 148,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 137,
+    "t": 147,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 17,
+    "t": 137,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 78,
+    "t": 137,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 137,
+    "t": 257,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 8,
+    "t": 137,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 237,
+    "t": 303,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 2,
+    "t": 237,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 237,
+    "t": 304,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 237,
+    "t": 281,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 89,
+    "t": 237,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 248,
+    "t": 289,
+    "w": 3.0,
+    "kind": "fact"
+   },
+   {
+    "s": 177,
+    "t": 248,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 125,
+    "t": 177,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 87,
+    "t": 125,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 125,
+    "t": 199,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 178,
+    "t": 289,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 36,
+    "t": 289,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 42,
+    "t": 289,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 94,
+    "t": 289,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 179,
+    "t": 248,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 179,
+    "t": 265,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 217,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 248,
+    "t": 333,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 253,
+    "t": 333,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 180,
+    "t": 248,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 138,
+    "t": 217,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 97,
+    "t": 169,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 75,
+    "t": 107,
+    "w": 3.0,
+    "kind": "fact"
+   },
+   {
+    "s": 75,
+    "t": 177,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 273,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 67,
+    "t": 124,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 67,
+    "t": 152,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 66,
+    "t": 124,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 324,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 75,
+    "t": 178,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 67,
+    "t": 84,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 67,
+    "t": 142,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 67,
+    "t": 267,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 67,
+    "t": 268,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 75,
+    "t": 179,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 14,
+    "t": 79,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 79,
+    "t": 197,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 131,
+    "t": 197,
+    "w": 1.0,
+    "kind": "fact+synonym"
+   },
+   {
+    "s": 74,
+    "t": 107,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 74,
+    "t": 127,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 107,
+    "t": 180,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 69,
+    "t": 124,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 124,
+    "t": 266,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 79,
+    "t": 124,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 148,
+    "t": 303,
+    "w": 3.0,
+    "kind": "fact"
+   },
+   {
+    "s": 131,
+    "t": 210,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 97,
+    "t": 124,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 125,
+    "t": 210,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 146,
+    "t": 304,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 146,
+    "t": 303,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 231,
+    "t": 334,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 302,
+    "t": 334,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 279,
+    "t": 334,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 334,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 86,
+    "t": 335,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 278,
+    "t": 335,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 4,
+    "t": 335,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 335,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 335,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 303,
+    "t": 335,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 280,
+    "t": 336,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 336,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 125,
+    "t": 336,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 336,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 304,
+    "t": 336,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 281,
+    "t": 336,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 288,
+    "t": 337,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 95,
+    "t": 337,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 77,
+    "t": 337,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 302,
+    "t": 337,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 337,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 325,
+    "t": 337,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 337,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 279,
+    "t": 337,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 212,
+    "t": 338,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 278,
+    "t": 338,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 302,
+    "t": 338,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 338,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 125,
+    "t": 338,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 338,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 103,
+    "t": 338,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 90,
+    "t": 338,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 76,
+    "t": 339,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 339,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 339,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 303,
+    "t": 339,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 39,
+    "t": 339,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 261,
+    "t": 340,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 53,
+    "t": 340,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 227,
+    "t": 340,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 340,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 340,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 340,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 303,
+    "t": 340,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 328,
+    "t": 341,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 61,
+    "t": 341,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 341,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 341,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 325,
+    "t": 341,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 341,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 304,
+    "t": 341,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 278,
+    "t": 342,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 342,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 325,
+    "t": 342,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 342,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 304,
+    "t": 342,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 297,
+    "t": 342,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 165,
+    "t": 342,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 104,
+    "t": 343,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 278,
+    "t": 343,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 13,
+    "t": 343,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 305,
+    "t": 343,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 7,
+    "t": 343,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 343,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 325,
+    "t": 343,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 343,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 200,
+    "t": 343,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 70,
+    "t": 344,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 68,
+    "t": 344,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 305,
+    "t": 344,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 344,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 344,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 344,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 199,
+    "t": 344,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 323,
+    "t": 344,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 200,
+    "t": 344,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 158,
+    "t": 345,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 321,
+    "t": 345,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 306,
+    "t": 345,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 345,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 205,
+    "t": 345,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 345,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 133,
+    "t": 345,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 65,
+    "t": 345,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 51,
+    "t": 346,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 306,
+    "t": 346,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 210,
+    "t": 346,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 346,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 346,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 346,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 133,
+    "t": 346,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 306,
+    "t": 347,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 210,
+    "t": 347,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 347,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 108,
+    "t": 347,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 136,
+    "t": 347,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 347,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 129,
+    "t": 347,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 133,
+    "t": 347,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 229,
+    "t": 347,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 307,
+    "t": 348,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 85,
+    "t": 348,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 259,
+    "t": 348,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 348,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 311,
+    "t": 348,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 348,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 348,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 307,
+    "t": 349,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 295,
+    "t": 349,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 324,
+    "t": 349,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 349,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 311,
+    "t": 349,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 349,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 187,
+    "t": 349,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 148,
+    "t": 349,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 20,
+    "t": 350,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 256,
+    "t": 350,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 16,
+    "t": 350,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 140,
+    "t": 350,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 78,
+    "t": 350,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 350,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 350,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 308,
+    "t": 350,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 10,
+    "t": 350,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 68,
+    "t": 351,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 140,
+    "t": 351,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 9,
+    "t": 351,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 351,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 351,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 308,
+    "t": 351,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 252,
+    "t": 351,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 140,
+    "t": 352,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 150,
+    "t": 352,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 352,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 199,
+    "t": 352,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 352,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 308,
+    "t": 352,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 252,
+    "t": 352,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 309,
+    "t": 353,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 175,
+    "t": 353,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 324,
+    "t": 353,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 353,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 353,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 318,
+    "t": 353,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 249,
+    "t": 353,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 309,
+    "t": 354,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 354,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 56,
+    "t": 354,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 136,
+    "t": 354,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 325,
+    "t": 354,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 354,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 276,
+    "t": 355,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 74,
+    "t": 355,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 73,
+    "t": 355,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 355,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 355,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 114,
+    "t": 355,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 355,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 310,
+    "t": 355,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 93,
+    "t": 356,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 73,
+    "t": 356,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 356,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 356,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 356,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 126,
+    "t": 356,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 310,
+    "t": 356,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 135,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 34,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 302,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 149,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 210,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 196,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 228,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 136,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 146,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 237,
+    "t": 357,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 137,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 8,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 257,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 78,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 302,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 228,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 237,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 148,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 147,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 17,
+    "t": 358,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 2,
+    "t": 359,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 228,
+    "t": 359,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 359,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 303,
+    "t": 359,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 237,
+    "t": 359,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 89,
+    "t": 360,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 228,
+    "t": 360,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 360,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 304,
+    "t": 360,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 281,
+    "t": 360,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 237,
+    "t": 360,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 289,
+    "t": 361,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 125,
+    "t": 361,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 87,
+    "t": 361,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 199,
+    "t": 361,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 177,
+    "t": 361,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 248,
+    "t": 361,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 94,
+    "t": 362,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 36,
+    "t": 362,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 178,
+    "t": 362,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 289,
+    "t": 362,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 248,
+    "t": 362,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 42,
+    "t": 362,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 217,
+    "t": 363,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 179,
+    "t": 363,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 289,
+    "t": 363,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 363,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 265,
+    "t": 363,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 248,
+    "t": 363,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 217,
+    "t": 364,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 253,
+    "t": 364,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 180,
+    "t": 364,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 97,
+    "t": 364,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 138,
+    "t": 364,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 248,
+    "t": 364,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 169,
+    "t": 364,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 333,
+    "t": 364,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 75,
+    "t": 365,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 324,
+    "t": 365,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 273,
+    "t": 365,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 67,
+    "t": 365,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 107,
+    "t": 365,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 365,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 152,
+    "t": 365,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 66,
+    "t": 365,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 177,
+    "t": 365,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 75,
+    "t": 366,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 268,
+    "t": 366,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 142,
+    "t": 366,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 267,
+    "t": 366,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 178,
+    "t": 366,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 67,
+    "t": 366,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 107,
+    "t": 366,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 84,
+    "t": 366,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 75,
+    "t": 367,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 14,
+    "t": 367,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 197,
+    "t": 367,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 179,
+    "t": 367,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 107,
+    "t": 367,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 131,
+    "t": 367,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 79,
+    "t": 367,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 74,
+    "t": 368,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 69,
+    "t": 368,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 266,
+    "t": 368,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 180,
+    "t": 368,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 107,
+    "t": 368,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 124,
+    "t": 368,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 79,
+    "t": 368,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 127,
+    "t": 368,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 7,
+    "t": 17,
+    "w": 0.8361896276473999,
+    "kind": "synonym"
+   },
+   {
+    "s": 13,
+    "t": 199,
+    "w": 0.8576556444168091,
+    "kind": "synonym"
+   },
+   {
+    "s": 14,
+    "t": 39,
+    "w": 0.8210645914077759,
+    "kind": "synonym"
+   },
+   {
+    "s": 36,
+    "t": 253,
+    "w": 0.8609753847122192,
+    "kind": "synonym"
+   },
+   {
+    "s": 36,
+    "t": 42,
+    "w": 0.8536964058876038,
+    "kind": "synonym"
+   },
+   {
+    "s": 42,
+    "t": 253,
+    "w": 0.8147009611129761,
+    "kind": "synonym"
+   },
+   {
+    "s": 65,
+    "t": 325,
+    "w": 0.9336467385292053,
+    "kind": "synonym"
+   },
+   {
+    "s": 65,
+    "t": 318,
+    "w": 0.8234308958053589,
+    "kind": "synonym"
+   },
+   {
+    "s": 66,
+    "t": 276,
+    "w": 0.8771470785140991,
+    "kind": "synonym"
+   },
+   {
+    "s": 66,
+    "t": 311,
+    "w": 0.8404793739318848,
+    "kind": "synonym"
+   },
+   {
+    "s": 66,
+    "t": 133,
+    "w": 0.8014937043190002,
+    "kind": "synonym"
+   },
+   {
+    "s": 68,
+    "t": 95,
+    "w": 0.8270102143287659,
+    "kind": "synonym"
+   },
+   {
+    "s": 73,
+    "t": 74,
+    "w": 0.9047033190727234,
+    "kind": "synonym"
+   },
+   {
+    "s": 74,
+    "t": 75,
+    "w": 0.8531162142753601,
+    "kind": "synonym"
+   },
+   {
+    "s": 76,
+    "t": 86,
+    "w": 0.8074588179588318,
+    "kind": "synonym"
+   },
+   {
+    "s": 77,
+    "t": 85,
+    "w": 0.819065511226654,
+    "kind": "synonym"
+   },
+   {
+    "s": 77,
+    "t": 288,
+    "w": 0.8173225522041321,
+    "kind": "synonym"
+   },
+   {
+    "s": 79,
+    "t": 84,
+    "w": 0.8021038174629211,
+    "kind": "synonym"
+   },
+   {
+    "s": 95,
+    "t": 273,
+    "w": 0.8063453435897827,
+    "kind": "synonym"
+   },
+   {
+    "s": 107,
+    "t": 114,
+    "w": 0.8560214042663574,
+    "kind": "synonym"
+   },
+   {
+    "s": 124,
+    "t": 125,
+    "w": 0.8386625647544861,
+    "kind": "synonym"
+   },
+   {
+    "s": 124,
+    "t": 127,
+    "w": 0.8381287455558777,
+    "kind": "synonym"
+   },
+   {
+    "s": 125,
+    "t": 127,
+    "w": 0.8118134140968323,
+    "kind": "synonym"
+   },
+   {
+    "s": 127,
+    "t": 273,
+    "w": 0.8351954221725464,
+    "kind": "synonym"
+   },
+   {
+    "s": 131,
+    "t": 321,
+    "w": 0.9278363585472107,
+    "kind": "synonym"
+   },
+   {
+    "s": 131,
+    "t": 133,
+    "w": 0.8538831472396851,
+    "kind": "synonym"
+   },
+   {
+    "s": 136,
+    "t": 252,
+    "w": 0.8221744298934937,
+    "kind": "synonym"
+   },
+   {
+    "s": 138,
+    "t": 140,
+    "w": 0.8095168471336365,
+    "kind": "synonym"
+   },
+   {
+    "s": 140,
+    "t": 318,
+    "w": 0.8284558653831482,
+    "kind": "synonym"
+   },
+   {
+    "s": 146,
+    "t": 148,
+    "w": 0.8156053423881531,
+    "kind": "synonym"
+   },
+   {
+    "s": 146,
+    "t": 147,
+    "w": 0.8064276576042175,
+    "kind": "synonym"
+   },
+   {
+    "s": 146,
+    "t": 150,
+    "w": 0.8004889488220215,
+    "kind": "synonym"
+   },
+   {
+    "s": 147,
+    "t": 308,
+    "w": 0.8548479080200195,
+    "kind": "synonym"
+   },
+   {
+    "s": 148,
+    "t": 149,
+    "w": 0.8090196847915649,
+    "kind": "synonym"
+   },
+   {
+    "s": 149,
+    "t": 306,
+    "w": 0.8244196176528931,
+    "kind": "synonym"
+   },
+   {
+    "s": 150,
+    "t": 304,
+    "w": 0.8149442076683044,
+    "kind": "synonym"
+   },
+   {
+    "s": 150,
+    "t": 179,
+    "w": 0.8041106462478638,
+    "kind": "synonym"
+   },
+   {
+    "s": 177,
+    "t": 178,
+    "w": 0.825100839138031,
+    "kind": "synonym"
+   },
+   {
+    "s": 177,
+    "t": 302,
+    "w": 0.8065348267555237,
+    "kind": "synonym"
+   },
+   {
+    "s": 177,
+    "t": 179,
+    "w": 0.8026493787765503,
+    "kind": "synonym"
+   },
+   {
+    "s": 178,
+    "t": 179,
+    "w": 0.8208380937576294,
+    "kind": "synonym"
+   },
+   {
+    "s": 178,
+    "t": 180,
+    "w": 0.8201239705085754,
+    "kind": "synonym"
+   },
+   {
+    "s": 179,
+    "t": 180,
+    "w": 0.8288077116012573,
+    "kind": "synonym"
+   },
+   {
+    "s": 179,
+    "t": 304,
+    "w": 0.8015326261520386,
+    "kind": "synonym"
+   },
+   {
+    "s": 180,
+    "t": 305,
+    "w": 0.8131336569786072,
+    "kind": "synonym"
+   },
+   {
+    "s": 197,
+    "t": 321,
+    "w": 0.8328983783721924,
+    "kind": "synonym"
+   },
+   {
+    "s": 199,
+    "t": 205,
+    "w": 0.8004484176635742,
+    "kind": "synonym"
+   },
+   {
+    "s": 210,
+    "t": 281,
+    "w": 0.8635618090629578,
+    "kind": "synonym"
+   },
+   {
+    "s": 210,
+    "t": 288,
+    "w": 0.8002058863639832,
+    "kind": "synonym"
+   },
+   {
+    "s": 216,
+    "t": 217,
+    "w": 0.9376149773597717,
+    "kind": "synonym"
+   },
+   {
+    "s": 289,
+    "t": 333,
+    "w": 0.9677221775054932,
+    "kind": "synonym"
+   },
+   {
+    "s": 302,
+    "t": 303,
+    "w": 0.8161798119544983,
+    "kind": "synonym"
+   },
+   {
+    "s": 303,
+    "t": 304,
+    "w": 0.8002806305885315,
+    "kind": "synonym"
+   },
+   {
+    "s": 304,
+    "t": 305,
+    "w": 0.8130978941917419,
+    "kind": "synonym"
+   },
+   {
+    "s": 318,
+    "t": 325,
+    "w": 0.870052695274353,
+    "kind": "synonym"
+   },
+   {
+    "s": 324,
+    "t": 325,
+    "w": 0.8112422227859497,
+    "kind": "synonym"
+   },
+   {
+    "s": 150,
+    "t": 430,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 429,
+    "t": 430,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 136,
+    "t": 324,
+    "w": 1.0,
+    "kind": "fact"
+   },
+   {
+    "s": 302,
+    "t": 431,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 430,
+    "t": 431,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 231,
+    "t": 431,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 150,
+    "t": 431,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 216,
+    "t": 431,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 429,
+    "t": 431,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 212,
+    "t": 431,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 136,
+    "t": 431,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 324,
+    "t": 431,
+    "w": 1.0,
+    "kind": "passage"
+   },
+   {
+    "s": 140,
+    "t": 429,
+    "w": 0.80084627866745,
+    "kind": "synonym"
+   },
+   {
+    "s": 66,
+    "t": 430,
+    "w": 0.8625525236129761,
+    "kind": "synonym"
+   },
+   {
+    "s": 334,
+    "t": 432,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 335,
+    "t": 432,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 336,
+    "t": 432,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 337,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 338,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 431,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 339,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 340,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 341,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 342,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 343,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 344,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 345,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 346,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 347,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 348,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 349,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 350,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 351,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 352,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 353,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 354,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 355,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 356,
+    "t": 433,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 357,
+    "t": 434,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 358,
+    "t": 434,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 359,
+    "t": 434,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 360,
+    "t": 434,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 361,
+    "t": 435,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 362,
+    "t": 435,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 363,
+    "t": 435,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 364,
+    "t": 435,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 365,
+    "t": 436,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 366,
+    "t": 436,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 367,
+    "t": 436,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 368,
+    "t": 436,
+    "w": 0.5,
+    "kind": "thuoc_van_ban"
+   },
+   {
+    "s": 432,
+    "t": 451,
+    "w": 1.0,
+    "kind": "can_cu"
+   },
+   {
+    "s": 432,
+    "t": 434,
+    "w": 1.0,
+    "kind": "can_cu"
+   },
+   {
+    "s": 432,
+    "t": 436,
+    "w": 1.0,
+    "kind": "can_cu"
+   },
+   {
+    "s": 432,
+    "t": 433,
+    "w": 2.0,
+    "kind": "ban_hanh"
+   },
+   {
+    "s": 355,
+    "t": 436,
+    "w": 2.0,
+    "kind": "dan_chieu"
+   },
+   {
+    "s": 346,
+    "t": 357,
+    "w": 3.0,
+    "kind": "sua_doi"
+   },
+   {
+    "s": 433,
+    "t": 434,
+    "w": 3.0,
+    "kind": "sua_doi"
+   },
+   {
+    "s": 350,
+    "t": 358,
+    "w": 3.0,
+    "kind": "sua_doi"
+   },
+   {
+    "s": 433,
+    "t": 434,
+    "w": 3.0,
+    "kind": "sua_doi"
+   },
+   {
+    "s": 363,
+    "t": 433,
+    "w": 2.0,
+    "kind": "dan_chieu"
+   },
+   {
+    "s": 364,
+    "t": 433,
+    "w": 2.0,
+    "kind": "dan_chieu"
+   }
+  ]
+ }
+}

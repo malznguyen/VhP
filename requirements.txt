@@ -1,0 +1,7 @@
+# HippoRAG 2 cài từ repo chính chủ: uv pip install -e third_party/HippoRAG
+sentence-transformers>=3.0,<4
+streamlit>=1.40
+pyvis==0.3.2
+plotly>=5
+python-dotenv
+pandas
